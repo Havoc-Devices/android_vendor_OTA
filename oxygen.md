@@ -1,10 +1,6 @@
-Added Expanded volume panel
-Added WPS support 
-Added a toggle to hide user switcher in QS footer
-Improved AOD on charge
-Improved in-call vibration
-Updated Lawnchair
-Updated inbuilt GBoard themes
-Fixed QS glitches
-Fixed FM Radio 
-Increased incall and speaker volume
+• Improved dark theme
+• Improved padding in statusbar
+• Updated Lawnchair
+• Fixed missing characters in default font
+• Fixed volume panel theming
+• Fixed HW buttons vibration with pie navbar
