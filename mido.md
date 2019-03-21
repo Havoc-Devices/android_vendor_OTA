@@ -1,4 +1,3 @@
-##### Havoc-OS v2.3 Unofficial 18-03 Build #####
 Changelog:
 * Improved dark theme
 * Improved padding in statusbar
@@ -14,6 +13,5 @@ Changelog:
 * Optimized ZRAM
 * Improved Low brightness values 
 * Upstream F2FS 
-* Updated GCAM 6.2 from @snapdragon625_mido
 * Some other fixes
 
