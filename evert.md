@@ -4,6 +4,5 @@
 • Fixed missing characters in default font
 • Fixed volume panel theming
 • Fixed HW buttons vibration with pie navbar
-• Allow Wfd from sdm660-common
-• Import more audio blobs from stock pie
-• Import motorola and Qualcomm blobs from stock pie
+• Update kernel sources
+• Fix audio on BT and wired headphones 
