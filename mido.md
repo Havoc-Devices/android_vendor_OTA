@@ -1,17 +1,19 @@
 Changelog:
-* Improved dark theme
-* Improved padding in statusbar
-* Updated Lawnchair
-* Fixed missing characters in default font
-* Fixed volume panel theming
-* Fixed HW buttons vibration with pie navbar
-* Switched Adreno blobs & display post and processing blobs to LA.UM.7.5.r1*03700*8x96.0
-* Updated Audio Configuration 
-* Improved Camera HAL (colour processing & JPEG quality) 
-* Updated/Improved BT & wifi
-* Improved Biometrics HAL
-* Optimized ZRAM
-* Improved Low brightness values 
-* Upstream F2FS 
-* Some other fixes
-
+• Added QS panel inspired by OOS
+• Added Music ticker inspired by Android Q
+• Added back the dividers in settings
+• Added back Screen-off animation
+• Added toggle to hide wifi icon
+• Added new icon for Sim toolkit
+• Improved expanded volume panel layout
+• Improved and cleaned up Settings
+• Fixed OnePlus gestures in landscape
+• Fixed a few settings seekbars
+• Fixed some theme glitches
+• Fixed double vibration on pill navbar
+• Supported Spectrum 
+• Upstream kernel 3.18.137
+• Improved image cropping size
+• Removed useless slim_daemon
+• Updated /data f2fs mount flags
+• Some other fixes
