@@ -1,21 +1,17 @@
-• Added Expanded volume panel
-• Added WPS support
-• Added a toggle to hide user switcher in QS footer
-• Improved AOD on charge
-• Improved in-call vibration
-• Updated Lawnchair
-• Updated inbuilt GBoard themes
-• Fixed QS glitches
-• Fixed Lockscreen weather disappearing after SystemUI restart
-• Fixed less annoying notification sounds
-• Fixed Glitch permanently
-• Fixed volte issue for some user 
-• Set Zram up to 1GB
-• Fixed Cast issue
-• New thermal engine.conf
-• Update audio
-• Fixed headset volume button mapping
-• Enable in call music
-• Disable noise cancelling when recording
-• Fixed network dropping
-• No more greeny on front camera
+• Added QS panel inspired by OOS
+• Added Music ticker inspired by Android Q 
+• Added back the dividers in settings 
+• Added back Screen-off animation 
+• Added toggle to hide wifi icon 
+• Added new icon for Sim toolkit 
+• Added MD2 icons for power menu 
+• Improved expanded volume panel layout 
+• Improved and cleaned up Settings 
+• Fixed OnePlus gestures in landscape 
+• Fixed a few settings seekbars 
+• Fixed some theme glitches 
+• Fixed double vibration on pill navbar
+• Fixed notification led
+* Added dual lte
+• Launcher lag fix removed,cause some app crashing
+
