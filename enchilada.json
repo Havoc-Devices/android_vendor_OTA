@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190323-enchilada-Official.zip",
+      "filename": "Havoc-OS-v2.3-20190324-enchilada-Official.zip",
       "version": "v2.3",
       "romtype": "Official",
-      "size": "570385091",
+      "size": "570384297",
       "datetime": 1553377847,
-      "id": "bf723a4d30cdfb12164e30d11b4287aaf01561332f3dc4ed3c79c82929685f15",
-      "url": "https://sourceforge.net/projects/havoc-os/files/enchilada/Havoc-OS-v2.3-20190323-enchilada-Official.zip/download"
+      "id": "701f070386fbfbf16b4b9da6e6591ec78b13aea6e389bb49146b7bdfc89e6e98",
+      "url": "https://sourceforge.net/projects/havoc-os/files/enchilada/Havoc-OS-v2.3-20190324-enchilada-Official.zip/download"
     }
   ]
 }
