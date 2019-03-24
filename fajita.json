@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190323-fajita-Official.zip",
+      "filename": "Havoc-OS-v2.3-20190324-fajita-Official.zip",
       "version": "v2.3",
       "romtype": "Official",
-      "size": "570405927",
-      "datetime": 1553380044,
-      "id": "6d8a34bbead3d99f9c12030754b0467852a018306a3cfbed85f265a3f7e2d5da",
-      "url": "https://sourceforge.net/projects/havoc-os/files/fajita/Havoc-OS-v2.3-20190323-fajita-Official.zip/download"
+      "size": "570406515",
+      "datetime": 1553403669,
+      "id": "18362009e741adaba95c18aca77c53e7201c8be6443eda73dd509f0b2334e3d7",
+      "url": "https://sourceforge.net/projects/havoc-os/files/fajita/Havoc-OS-v2.3-20190324-fajita-Official.zip/download"
     }
   ]
 }
