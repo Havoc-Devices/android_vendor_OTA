@@ -1,20 +1,21 @@
-• Update Blobs to 9.3.14
-• Fix GPS 
-• Improve Volumepanel
-• Added New Updater
-• Update ANX Camera Mod 
-• Update GoogleCamera
-• Improved dark theme
-• Improved padding in statusbar
-• Updated Lawnchair
-• Fixed missing characters in default font
-• Fixed volume panel theming
-• Fixed HW buttons vibration with pie navbar
-• Re-add WPS implementation
-• Fix Weather after reboot/systemui restart
-• Cleanup Device Tree
-• Update Fingerprint
-• Add AdAway
-• Some other fixes and optimizations
-• Update Kernel
+•••••••••••••••••••••••••••••••••••••
+• Removed all OC from Kernel !!!!
+• Update Kernel to lastest commmits
+•••••••••••••••••••••••••••••••••••••
+• Added QS panel inspired by OOS
+• Added Music ticker inspired by Android Q
+• Added back the dividers in settings
+• Added back Screen-off animation
+• Added toggle to hide wifi icon
+• Added new icon for Sim toolkit
+• Added MD2 icons for power menu
+• Improved expanded volume panel layout
+• Improved and cleaned up Settings
+• Fixed OnePlus gestures in landscape
+• Fixed a few settings seekbars
+• Fixed some theme glitches
+• Fixed double vibration on pill navbar
+• Update Google Camera - added new one
+•
+• Add omniswitch again
 • and more ...
