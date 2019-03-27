@@ -1,8 +1,8 @@
-• Improved dark theme
-• Improved padding in statusbar
-• Updated Lawnchair
-• Fixed missing characters in default font
-• Fixed volume panel theming
-• Fixed HW buttons vibration with pie navbar
+•`Added mobile data tile icon from OOS
+• Added systemwide adaptive icon setting
+• Fixed proximity sensor issues in Dialer
+• Fixed partial screenshot
+• Fixed music ticker on AOD
+• Fixed multiuser icon glitch in QS footer
 • Update kernel sources
-• Fix audio on BT and wired headphones 
+• Ful fix audio on BT and wired headphones
