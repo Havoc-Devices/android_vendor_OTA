@@ -1,12 +1,9 @@
-• Added Expanded volume panel
-• Added WPS support
-• Added a toggle to hide user switcher in QS footer
-• Improved AOD on charge
-• Improved in-call vibration
-• Updated Lawnchair
-• Updated inbuilt GBoard themes
-• Fixed QS glitches
-• Fixed Lockscreen weather disappearing after SystemUI restart
-• Fixed less annoying notification sounds
-• Fixed dpi issue
+• Added systemwide adaptive icon setting
+• Added mobile data tile icon from OOS
+• Fixed proximity sensor issues in Dialer
+• Fixed partial screenshot
+• Fixed music ticker on AOD
+• Fixed multiuser icon glitch in QS footer
+• Fixed system crash when encrypting from settings
+• Fixed device not supported issue on google play
 
