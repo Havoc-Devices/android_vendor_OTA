@@ -7,3 +7,6 @@
 • double tap to wake fixed
 • selinux enforcing
 • updated fingerprint hal
+• fixed camera crash
+• solved fingerprint issue
+• fixed netflix crash
