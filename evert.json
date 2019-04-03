@@ -1,15 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190326-evert-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190403-evert-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "572192731",
-      "datetime": 1553635232,
-      "id": "7851d46a51eb795fe44a77e90226921d66093d8621dc0109fc7d70b9ccc9d60c",
-      "url": "https://sourceforge.net/projects/havoc-os/files/evert/Havoc-OS-v2.3-20190326-evert-Official.zip/download"
+      "size": "578787637",
+      "datetime": 1554252740,
+      "id": "22cd80ada1e1a601a63e8c9d5a56d33c795da5ca56452ebeada1e227f7135688",
+      "url": "https://sourceforge.net/projects/havoc-os/files/evert/Havoc-OS-v2.4-20190403-evert-Official.zip/download"
     }
   ]
 }
-
-
