@@ -1,11 +1,7 @@
-• Added systemwide adaptive icon setting
-• Added mobile data tile icon from OOS
-• Fixed proximity sensor issues in Dialer
-• Fixed partial screenshot
-• Fixed music ticker on AOD
-• Fixed multiuser icon glitch in QS footer
-• Fixed Hanging issues Happening sometimes
-• Fixed Battery drain issues
-• Again Increased speaker volume while playing media or in-call
-
+• Merged April security patches
+• Added media cover art filters
+• Added long squeeze actions for Pixel
+• Added Browser
+• Improved gaming mode tile
+• Upstreamed kernel to 3.18.138
 
