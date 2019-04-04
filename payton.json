@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190321-payton-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190403-payton-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "577001571",
-      "datetime": 1553154172,
-      "id": "d93bef706f171c8129970c4e566d1d90283f4f2fe570cf7f0114d4305cca6002",
-      "url": "https://sourceforge.net/projects/havoc-os/files/payton/Havoc-OS-v2.3-20190321-payton-Official.zip/download"
+      "size": "585546466",
+      "datetime": 1554266966,
+      "id": "e8a8d03644c8b1fb6552b4e2de3df16a6952ffa13818c9d05d26400d424afa47",
+      "url": "https://sourceforge.net/projects/havoc-os/files/payton/Havoc-OS-v2.4-20190403-payton-Official.zip/download"
     }
   ]
 }
