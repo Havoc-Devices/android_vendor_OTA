@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190324-rolex-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190406-rolex-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "596066854",
-      "datetime": 1553414014,
-      "id": "c0400e4b378b3606cdf35fe5a2ba7518e9f10b33487218d2e41fbedeb2639b7f",
-      "url": "https://sourceforge.net/projects/havoc-os/files/rolex/Havoc-OS-v2.3-20190324-rolex-Official.zip/download"
+      "size": "599072562",
+      "datetime": 1554365984,
+      "id": "b24c119c2678f3e7e8e8cb690c078b0a0290de21f2f60526964a997115d12429",
+      "url": "https://sourceforge.net/projects/havoc-os/files/rolex/Havoc-OS-v2.4-20190406-rolex-Official.zip/download"
     }
   ]
 }
