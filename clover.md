@@ -1,12 +1,16 @@
-• Merged April security patches
-• Added media cover art filters
-• Added Browser
-• Improved gaming mode tile
-• complete new Kernel based on Linux Stable 4.4.177
-• screen bleeding fixed
-• double tap to wake fixed
-• selinux enforcing
-• updated fingerprint hal
-• fixed camera crash
-• solved fingerprint issue
-• fixed netflix crash
+• Added Agressive battery settings
+• Added deep sleep info to uptime
+• Added 2 more variants for Cover art filters
+• Added OnePlus Red accent color
+• Added Black Pearl theme color
+• Added Slim recents enter/exit animation
+• Added Statusbar logo customizations
+• Fixed Cover art blur for some music apps
+• Fixed screen unpinning with hw keys
+• Fixed old mobile type icons
+• Removed Browser temporarily
+• Imported translations from Crowdin
+• fixed reboot at low battery
+• selinux improvments
+• caf merged LA.UM.7.2.r1-06700
+• updated camera app
