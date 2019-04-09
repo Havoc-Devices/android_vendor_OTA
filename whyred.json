@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190328-whyred-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190409-whyred-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "705193137",
-      "datetime": 1553765210,
-      "id": "c99df9a45cfd0a4a2c040c2772e3ba34a7080acd602b1e56f05d449cb19df06f",
-      "url": "https://sourceforge.net/projects/havoc-os/files/whyred/Havoc-OS-v2.3-20190328-whyred-Official.zip/download"
+      "size": "715074628",
+      "datetime": 1554821928,
+      "id": "fce0ef3e98091587667be5dfb319687e8822aabd0af71853a87a7a130cf09bae",
+      "url": "https://sourceforge.net/projects/havoc-os/files/whyred/Havoc-OS-v2.4-20190409-whyred-Official.zip/download"
     }
   ]
 }
