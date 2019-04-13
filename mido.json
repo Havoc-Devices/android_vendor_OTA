@@ -2,13 +2,13 @@
 {
   "response": [
    {
-      "filename": "Havoc-OS-v2.4-20190407-mido-Official.zip",
+      "filename": "Havoc-OS-v2.4-20190413-mido-Official.zip",
       "version": "v2.4",
       "romtype": "Official",
-      "size": "545057781", 
-      "datetime":1554674045,
-      "id": "42acff3a2b3bcde43c4b361ee0fd857ad239ccdd9b6ca567001babb4bc57c180",
-      "url": "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v2.4-20190407-mido-Official.zip/download"
+      "size": "552000001", 
+      "datetime":1555118954,
+      "id": "c045a8d7f845ed0dadb321af46f847400d7a08dcbd3c575bfac6a448fa9333e5",
+      "url": "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v2.4-20190413-mido-Official.zip/download"
     }
   ]
 }
