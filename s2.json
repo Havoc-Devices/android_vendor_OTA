@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190317-s2-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190414-s2-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "624893668",
-      "datetime": 1552834573,
-      "id": "e051c61b3058e503df240062577d084598ffec90c0e66b342c8590b831d3325f",
-      "url": "https://sourceforge.net/projects/havoc-os/files/s2/Havoc-OS-v2.3-20190317-s2-Official.zip/download"
+      "size": "556920939",
+      "datetime": 1555085670,
+      "id": "211bca9cc5f78268be6055067bd10b15d05059186146202b020a259afb4e50a7",
+      "url": "https://sourceforge.net/projects/havoc-os/files/s2/Havoc-OS-v2.4-20190414-s2-Official.zip/download"
     }
   ]
 }
