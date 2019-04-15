@@ -1,19 +1,10 @@
-• Merged April security patches
-• Added media cover art filters
-• Added long squeeze actions for Pixel
-• Improved gaming mode tile
-• Added Agressive battery settings
-• Added deep sleep info to uptime
-• Added 2 more variants for Cover art filters
-• Added OnePlus Red accent color
-• Added Black Pearl theme color
-• Added Slim recents enter/exit animation
-• Added Statusbar logo customizations
-• Fixed Cover art blur for some music apps
-• Fixed screen unpinning with hw keys
-• Fixed old mobile type icons
-• Imported translations from Crowdin
-• Added thermal-engine-normal.conf
-• Switched to Derp Kernel
-• Compiled with clang 9.0.2
+• Added Android Q Text clock
+• Added Lava lamp for lockscreen visualizer
+• Added Dirac QS tile
+• Improved seekbars for some settings
+• Improved translations
+• Fixed crash on changing default phone app
+• Fixed Ambient visualizer glitches
+• Removed Custom visualizer color
+• Disabled boost framework for incompatible devices
 
