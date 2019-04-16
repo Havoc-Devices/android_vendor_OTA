@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190330-oxygen-Official.zip",
-      "version": "v2.3",
+      "filename": "Havoc-OS-v2.4-20190404-oxygen-Official.zip",
+      "version": "v2.4",
       "romtype": "Official",
-      "size": "577386314",
-      "datetime": 1553968281,
-      "id": "3ab636c6e960849daeea10a117064ffeae8177d7b5557df4359672edb245aa5b",
-      "url": "https://sourceforge.net/projects/havoc-os/files/oxygen/Havoc-OS-v2.3-20190330-oxygen-Official.zip/download"
+      "size": "667823272",
+      "datetime": 1554347885,
+      "id": "4a2281ea284a5db7f3d5e5c5ab41dd9075d681c83efea2b45b6c3c83a74244bf",
+      "url": "https://sourceforge.net/projects/havoc-os/files/oxygen/Havoc-OS-v2.4-20190404-oxygen-Official.zip/download"
     }
   ]
 }

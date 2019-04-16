@@ -1,21 +1,14 @@
-•••••••••••••••••••••••••••••••••••••
-• Removed all OC from Kernel !!!!
-• Update Kernel to lastest commmits
-•••••••••••••••••••••••••••••••••••••
-• Added QS panel inspired by OOS
-• Added Music ticker inspired by Android Q
-• Added back the dividers in settings
-• Added back Screen-off animation
-• Added toggle to hide wifi icon
-• Added new icon for Sim toolkit
-• Added MD2 icons for power menu
-• Improved expanded volume panel layout
-• Improved and cleaned up Settings
-• Fixed OnePlus gestures in landscape
-• Fixed a few settings seekbars
-• Fixed some theme glitches
-• Fixed double vibration on pill navbar
-• Update Google Camera - added new one
-•
-• Add omniswitch again
-• and more ...
+• Update to 9.4.1 blobs (flash 9.3.28 if you cant find 9.4.1 vendor/firmware)
+• Kernel improvments
+• Use LOS NFC stack - tell me if all is working
+• Fix ANX Camera freezes
+• Update Google Camera
+• Disable night mode in battery saver
+• Replace old lockscreen visualizer with Pulse Magic
+• Some fixes and optimizations
+• Fix russian translations - fix the fingerprint error
+• Fix Network traffic on Statusbar (you have to set lowwer dpi, that you have enough space or disable some system icons)
+• Fix Mobile data text glitches with roaming and so on
+• for more see changelog in Havoc Settings !
+
+!! Gonna take a break till 22.04 !!

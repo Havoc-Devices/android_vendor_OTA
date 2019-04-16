@@ -1,21 +1,30 @@
-===HAVOC-OS-[17/03/19]===
-• Improved dark theme
-• Improved padding in statusbar
-• Updated Lawnchair
-• Fixed missing characters in default font
-• Fixed volume panel theming
-• Fixed HW buttons vibration with pie navbar
-• reverded a accidental change that afftected some Mobile Carriers
-===PAYTON-[21-03-2019]===
+===HAVOC-OS===
+==[23/03/19]==
+• Added QS panel inspired by OOS
+• Added Music ticker inspired by Android Q
+• Added back the dividers in settings
+• Added back Screen-off animation
+• Added toggle to hide wifi icon
+• Added new icon for Sim toolkit
+• Added MD2 icons for power menu
+• Improved expanded volume panel layout
+• Improved and cleaned up Settings
+• Fixed OnePlus gestures in landscape
+• Fixed a few settings seekbars
+• Fixed some theme glitches
+• Fixed double vibration on pill navbar
+==[02/04/19]==
+• Merged April security patches
+• Added media cover art filters
+• Added long squeeze actions for Pixel
+• Added Browser
+• Improved gaming mode tile
+===PAYTON===
+==[03/04/19]==
 Device Changelog:-
-Manual flash if not on [19/03/19 build]
-• OTA support Now Live
-• Enabled Smart Pixels
-• Fast Charging LED
-• Enabled perfd
-• Set default system I/O Scheduler - [Maple]
-• Set defualt system govenors - [Interactive]
+• Enable VoLTE on Airtel India
+• FM Radio (Moto)
+• Sprint Carrier Apps
 Kernel Changelog:-
-• Traded SCHED_WALT for HMP
-• Updated Payton dtsi for Speedbin3
-• Introducing KLapse v1.3 (Kernel Level LiveDisplay Module)
+• Upstream to Kernal 4.4.177
+

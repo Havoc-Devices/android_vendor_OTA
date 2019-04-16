@@ -1,9 +1,13 @@
-• Reverted Adreno driver back to 313
-• Added VantomKernel
-• Added systemwide adaptive icon setting
-• Added mobile data tile icon from OOS
-• Fixed proximity sensor issues in Dialer
-• Fixed partial screenshot
-• Fixed music ticker on AOD
-• Fixed multiuser icon glitch in QS footer
-• Fixed system crash when encrypting from settings
+• Added Lava lamp for lockscreen visualizer
+• Added Dirac QS tile
+• Improved seekbars for some settings
+• Improved translations
+• Fixed crash on changing default phone app
+• Fixed Ambient visualizer glitches
+• Removed Custom visualizer color
+• Disabled boost for incompatible devices
+• Added toasts for alert slider
+• Updated kernel to mcd r8
+• Added Snap cam and Gallery2
+• Removed OOS cam and gallery
+• Fixed accidental touch

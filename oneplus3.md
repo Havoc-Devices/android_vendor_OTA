@@ -1,4 +1,2 @@
-• Merged April security patches
-• Added media cover art filters
-• Added Browser
-• Improved gaming mode tile
+• Added Android Q Text clock
+• Added Awesome alert slider
