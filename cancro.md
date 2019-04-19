@@ -6,4 +6,8 @@
 • Fixed Ambient visualizer glitches
 • Removed Custom visualizer color
 • Disabled boost framework for incompatible devices
-• Thanks to GuaiYiHu for his tree
+• Added Android Q Text Clock
+• Wait for Qcom MPCTL service to start
+• Added SD Clang
+• Thanks to GuaiYiHu’s Makefile
+
