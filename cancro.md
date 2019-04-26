@@ -6,4 +6,11 @@
 • Fixed Ambient visualizer glitches
 • Removed Custom visualizer color
 • Disabled boost framework for incompatible devices
-• Thanks to GuaiYiHu for his tree
+• Added alucard,zzmoove and smartmax governors
+• Added CPU Voltage Control
+• Removed ElementalX Support
+• Removed AutoSMP Support
+• Added CPU 268mhz clockspeed
+• Added 27 MHz GPU frequency step
+• Reduced CPU Retention Voltage
+• Thanks to GuaiYiHu’s Makefile
