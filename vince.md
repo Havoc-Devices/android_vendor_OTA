@@ -1,3 +1,5 @@
-* fixed fingerprint acting as a button
-* updated kernel to latest
-* general rom upstream
+* fixed color inversion
+* fixed color correction
+* fixed nightlight
+* fixed high contrast text
+* back to AOSP FM radio
