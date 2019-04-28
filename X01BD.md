@@ -1,9 +1,9 @@
-• Added Lava lamp for lockscreen visualizer
-• Added Dirac QS tile
-• Improved seekbars for some settings
-• Improved translations
-• Fixed crash on changing default phone app
-• Fixed Ambient visualizer glitches
-• Removed Custom visualizer color
-• Disabled boost framework for incompatible devices
-• Added Q style Lockscreen
+• Improvements in Android Q Textclock
+• Weather will show up now along with date
+• Upstreamed kernel to 4.4.179
+• Compiled kernel with clang 9.0.3
+• Added schedutil & blu_schedutil governors
+• Rewrite spectrum values
+• Added MIUI like poweroff charging animation(and good thing percentage also shows)
+• Reduced minimum brightness to 2
+• Bootanimation will be there in this build now(Defined Bootanimation Resolution thid time)
