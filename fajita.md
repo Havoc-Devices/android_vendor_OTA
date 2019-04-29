@@ -1,3 +1,6 @@
-**CLEAN FLASH SUGGESTED**
+* Updated Oneplus camera and gallery
+* Kernel upstream
+* Android Q lockscreen clock
+* Various tweaks and fixes
 
-Updated OnScreen Fingerprint to latest patchset (#8)
+** OOS BASE CHANGE: Please use OOS 9.0.13
