@@ -1,14 +1,14 @@
-• Update to 9.4.1 blobs (flash 9.3.28 if you cant find 9.4.1 vendor/firmware)
-• Kernel improvments
-• Use LOS NFC stack - tell me if all is working
-• Fix ANX Camera freezes
-• Update Google Camera
-• Disable night mode in battery saver
-• Replace old lockscreen visualizer with Pulse Magic
-• Some fixes and optimizations
-• Fix russian translations - fix the fingerprint error
-• Fix Network traffic on Statusbar (you have to set lowwer dpi, that you have enough space or disable some system icons)
-• Fix Mobile data text glitches with roaming and so on
-• for more see changelog in Havoc Settings !
+• Update to 9.4.18 blobs
+• Fix Ok-Google on Lockscreen
+• Rebase, Cleanup and Device tree optimizations
+• Remove AntiAliasing notch - use fixed values
+• Update ANX Camera
+• Added Statusbar battery Q Style
+• Add Advanced Pulse Magic Lockscreen Visualizer
+• Lots of System improvements and optimizations
+• Cleanup Customedoze from Havoc settings - its in XiaomiWreck now
+• Use LineageDoze for better behaving
+• Add optimzations for better screen off on AOD
+• Kernel improvments - better battery and performance
+• and much more dont know now ... for more see changelog in Havoc Settings !
 
-!! Gonna take a break till 22.04 !!
