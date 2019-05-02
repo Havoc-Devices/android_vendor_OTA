@@ -1,11 +1,7 @@
-• Added Android Q Text clock
-• Added Awesome alert slider
-• Sepolicy improvement
-• Netflix watch fix
-• New Camera Blobs from pie
-• 4k Gcam Video recording
-• Display Grayscale mode
-• Mic and Headphone gain amplifier
-• KLAPSE (Livedisplay driver) added
-• boeffla Wakelockblocker Added
-• Cleanup Kernel
+• EAS Kernel
+• Thermal Control in Xiaomi Parts
+• Watermark fix (Camera)
+• updated kernel to 4.4.179
+• new cpu input boost driver
+• More Audio OSS Libs
+• wifi dropping fix (hopefully)
