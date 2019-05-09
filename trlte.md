@@ -1,27 +1,14 @@
-• Added Agressive battery settings
-• Added deep sleep info to uptime
-• Added 2 more variants for Cover art filters
-• Added OnePlus Red accent color
-• Added Black Pearl theme color
-• Added Slim recents enter/exit animation
-• Added Statusbar logo customizations
-• Fixed Cover art blur for some music apps
-• Fixed screen unpinning with hw keys
-• Fixed old mobile type icons
-• Removed Browser temporarily
-• Imported translations from Crowdin
-• Added Lava lamp for lockscreen visualizer
-• Added Dirac QS tile
-• Improved seekbars for some settings
-• Improved translations
-• Fixed crash on changing default phone app
-• Fixed Ambient visualizer glitches
-• Removed Custom visualizer color
-• Disabled boost framework for incompatible devices
-• Added Android Q Text Clock
-
-Device Changelog
-• Boosted kernel & Soc
-• Memory Optimized
-• Optimized Camera
-• Fixed some bugs
+• Merged May security patches
+• Added LiveDisplay
+• Added Pocket Judge
+• Added Lockscreen visualizer customizations
+• Added Android Q style battery icon
+• Added Reading mode QS tile
+• Added advanced location tile options
+• Improved QS detail view
+• Changed NFC icon
+• Removed proximity check on wake
+• Fixed Battery icon padding
+• Fixed In-call UI layout
+• Fixed three finger swipe for screenshot
+• Fixed statusbar icon animation

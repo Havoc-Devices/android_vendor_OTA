@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.4-20190421-trlte-Official.zip",
-      "version": "v2.4",
+      "filename": "Havoc-OS-v2.5-20190509-trlte-Official.zip",
+      "version": "v2.5",
       "romtype": "Official",
-      "size": "390732827",
-      "datetime": 1555860413,
-      "id": "e78f7c09bf16ac656a005c45bf1ce10f59f4f0c60e30522b5998e9f2a8f23284",
-      "url": "https://sourceforge.net/projects/havoc-os/files/trlte/Havoc-OS-v2.4-20190421-trlte-Official.zip/download"
+      "size": "388995082",
+      "datetime": 1557411802,
+      "id": "554bdcfa28ac92f6b5904b99f7097d3c5f08b90894e2203e1ebcb1b34f01d51f",
+      "url": "https://sourceforge.net/projects/havoc-os/files/trlte/Havoc-OS-v2.5-20190509-trlte-Official.zip/download"
     }
   ]
 }
