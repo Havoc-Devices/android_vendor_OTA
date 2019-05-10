@@ -1,20 +1,12 @@
-*Added Agressive Battery Settings
-*Added Deep Sleep info to uptime
-*Added 2 more varients for cover art filter
-*Added oneplus red accent color
-*Added black pearl theme color
-*Added Slim recents enter/exit animation
-*Added statusbar logo customizations
-*Fixed cover art blur for some music apps
-*Fixed screen unpinning with hw keys
-*Fixed old mobile type icons
-*Removed browser temporarily
-*Imported translations from Crowdin
-*Added Lava Lamp for lockscreen visualizer
-*Improved Seekbar for some settings
-*Fixed crash on changing default phone app
-*Removed custom visualizer color
-*Disable boost framework for incompatible devices
-*Added Android Q Text Clock
-Device Changelog-
-*Updated to Latest Stable Shadow kernel
+Device Changelog: *Updated minimum firmware required to 9.4.26 
+*Updated blobs listing for 9.4.26 *Fixed Google hotword 
+enrollment *Removed Force Battery Percentage while charging and 
+Battery Saver Havoc 2.5 Changelog: *Merged May security patches 
+*Added LiveDisplay *Added Pocket Judge *Added Force fullscreen 
+for apps (Thanks to @jhenrique09) *Added Lockscreen visualizer 
+customizations *Added Android Q style battery icon *Added 
+Reading mode QS tile *Added advanced location tile options 
+*Improved QS detail view *Removed proximity check on wake *Fixed 
+Battery icon padding *Fixed In-call UI layout *Fixed three 
+finger swipe for screenshot *Fixed statusbar icon animation
+*Improved FP in pocket mode
