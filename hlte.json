@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.4-20190425-hlte-Official.zip",
-      "version": "v2.4",
+      "filename": "Havoc-OS-v2.5-20190510-hlte-Official.zip",
+      "version": "v2.5",
       "romtype": "Official",
-      "size": "398524061",
-      "datetime": 1556226420,
-      "id": "bcdb14cff21b427d63889c3ddd9e27e60e0d329a5a57ebf128d0c90633d63a08",
-      "url": "https://sourceforge.net/projects/havoc-os/files/hlte/Havoc-OS-v2.4-20190425-hlte-Official.zip/download"
+      "size": "396661431",
+      "datetime": 1557468683,
+      "id": "e45a6da5ffce43ca854b414895509e16fb32a6014b391d83ec91c70ac6056506",
+      "url": "https://sourceforge.net/projects/havoc-os/files/hlte/Havoc-OS-v2.5-20190510-hlte-Official.zip/download"
     }
   ]
 }
