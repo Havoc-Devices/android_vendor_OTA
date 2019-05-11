@@ -1,5 +1,5 @@
-• Upstreamed kernel to 3.18.139
-• Kernel: enabled VDSO
-• Merged f2fs updates
-• Updated blobs from tissot and TA-1024
-• Improved Camera HALs and USB configs
+• Added Smart charging
+• Improved FP in Pocket mode
+• Fixed notification lag
+• Fixed SystemUI crash when language is set to Spanish
+• Fixed Charging related issues
