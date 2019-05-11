@@ -23,7 +23,7 @@
 • Fixed notification lag
 • Fixed SystemUI crash when language is set to Spanish
 ===PAYTON===
-==[17/04/19]==
+==[10/05/19]==
 Device Changelog:-
 • Restore LineageLiveDisplay and bring in v2.0
 • Enable WiFI MAC Randomization Toggle
