@@ -20,4 +20,5 @@
 • Fixed SystemUI crash when language is set to Spanish
 • updated to OOS 9.0.5
 • Kernel updates
+ ^`  Fixed missing device extras
 
