@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190511-trlteduos-Official.zip",
+      "filename": "Havoc-OS-v2.5-20190512-trlteduos-Official.zip",
       "version": "v2.5",
       "romtype": "Official",
-      "size": "384595460",
+      "size": "384813930",
       "datetime": 1557585435,
-      "id": "d68625fa12dcc8832d4a7cd902b7a488d375b1420842a8f7ceacac9449c27e74",
-      "url": "https://sourceforge.net/projects/havoc-os/files/trlteduos/Havoc-OS-v2.5-20190511-trlteduos-Official.zip/download"
+      "id": "9503f52015075070e7d415bbf8674cb150bbc8e8889f4a33a5961425b9e8700a",
+      "url": "https://sourceforge.net/projects/havoc-os/files/trlteduos/Havoc-OS-v2.5-20190512-trlteduos-Official.zip/download"
     }
   ]
 }
