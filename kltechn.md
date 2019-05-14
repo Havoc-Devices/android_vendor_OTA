@@ -20,3 +20,13 @@ Havoc-OS v2.4 Changelog 07-04-19:
 • Fixed old mobile type icons
 • Removed Browser temporarily
 • Imported translations from Crowdin
+
+Havoc-OS v2.5 Changelog 11-05-19:
+
+• Added toggle to enable FP detection in Pocket mode
+• Improved date layout with text clock
+• Improved Pocket mode UI
+• Removed forced battery % when charging
+• Fixed NavBar tuner crash when using Oreo QS style
+• Fixed theming of notification shelf dot
+• Updated translations
