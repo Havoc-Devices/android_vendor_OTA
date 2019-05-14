@@ -1,5 +1,15 @@
 ====================
-     05-12-2019
+     14-05-2019
+====================
+
+* 76d93e48f Added kcal support (thx for @NotesOfReality)
+* 350f3abd3 XiaomiParts added
+* Equalizer is replaced with SyberianOS's
+* Original Gcam replaced with Granrage's mod
+* Re-added Blokada (easier maintenance)
+
+====================
+     12-05-2019
 ====================
 
 
