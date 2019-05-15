@@ -1,15 +1,18 @@
-• Added Smart charging
-• Improved FP in Pocket mode
-• Fixed notification lag
-• Fixed SystemUI crash when language is set to Spanish
-• update camera blobs from stock OPSS28.65-36-9
-• DTV fixed and updated to newer version 
-• zram compression algorithm change
-• No zram issue fix
-• spectrum profile updated (no performance mode fix)
-• finger print lag fix, fp booster driver added
-• Camera Focusing boost added for better and faster focusing
-• CPU and GPU optimization done
-• Super stable now
-• fix some bugs
-• Enjoy the Rom Havoc better than ever....
+• Added toggle to enable FP detection in Pocket mode
+• Improved date layout with text clock
+• Improved Pocket mode UI
+• Removed forced battery % when charging
+• Fixed NavBar tuner crash when using Oreo QS style
+• Fixed theming of notification shelf dot
+• Updated translations
+• Added Enhanced battery estimates in QS
+• Added bolt when charging for Text battery style
+• Added seekbar to media notification
+• Added accents from Android Q
+• Added outdoor mode in LiveDisplay tile
+• Moved Music ticker to KeyguardSlice like Android Q
+• Improved statusbar icons alignment
+• Improved Android Q clock
+• Fixed SystemUI crash with auto face unlock
+• Google drive issue fix
+• sepolicy for spectrum added
