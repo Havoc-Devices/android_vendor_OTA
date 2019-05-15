@@ -1,7 +1,16 @@
 ====================
-     05-12-2019
+     14-05-2019
 ====================
 
+   * Added kcal support (thx for NotesOfReality)
+   * Added XiaomiParts and fine-tunes
+   * Equalizer is replaced with SyberianOS's
+   * Original Gcam replaced with Granrage's mod
+   * Re-added Blokada (easier to maintain)
+
+====================
+     12-05-2019
+====================
 
    * device/xiaomi/markw/
 87a51e0 Added maintainer name and removed hardware key backlight in Settings
