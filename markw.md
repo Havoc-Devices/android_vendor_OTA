@@ -1,12 +1,12 @@
 ====================
-     14-05-2019
+     16-05-2019
 ====================
 
    * Added kcal support (thx for NotesOfReality)
-   * Added XiaomiParts and fine-tunes
-   * Equalizer is replaced with SyberianOS's
-   * Original Gcam replaced with Granrage's mod
-   * Re-added Blokada (easier to maintain)
+   * Added XiaomiParts
+   * Under the hood tweaks in XiaomiParts
+   * Ported Razziell's "init: clear and simplify init, remove hack for GSI" commit, which aims to bring stability
+   * Synced with Havoc source: https://t.me/Havoc_OS/1024 and https://t.me/Havoc_OS/1064
 
 ====================
      12-05-2019
