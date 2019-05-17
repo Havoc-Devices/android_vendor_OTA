@@ -1,4 +1,12 @@
 ====================
+     17-05-2019
+====================
+
+   * Ported Skulshady's "op3: Show battery icon in the QS header"
+   * Switched to Olympian Kernel
+   * Synced with Havoc upstream
+
+====================
      16-05-2019
 ====================
 
