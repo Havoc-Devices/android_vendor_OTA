@@ -1,4 +1,18 @@
 ====================
+     20-05-2019
+====================
+
+   * Porting ShihabZzz's Update Dexpreopt commit
+   * Use default Dalvik values	
+   * Enable dev specific GPS
+   * Enable dev specific FMRadio
+   * Android Q text clock Hungarian translation
+   * Revert "hwui: Enable quicksilver"
+   * Further update of Hungarian translation
+   * Update of Hungarian translation in Havoc Settings
+   * Disable VSYNC and enable FM properties
+
+====================
      17-05-2019
 ====================
 
