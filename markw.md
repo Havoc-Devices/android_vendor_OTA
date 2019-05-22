@@ -1,4 +1,17 @@
 ====================
+     22-05-2019
+====================
+
+   * Updated fingerprint (by nichcream)
+   * Media and Graphic update from OP T3 (by ZeeLog)
+   * Default network type set to LTE/WCDMA (by Granrage)
+   * Wait for MPCTL to start at boot (by dianlujitao)
+   * Added Doze properties (by pavlaras)
+   * Added proper device name
+   * Enable olympian_markw_defconfig for kernel
+   * Update with upstream kernel source
+
+====================
      20-05-2019
 ====================
 
