@@ -10,4 +10,4 @@
 • Fixed SystemUI crash with auto face unlock
 
 Device changelog
-• Improved Bluetooth
+• Fixed Bluetooth crash and disconnect
