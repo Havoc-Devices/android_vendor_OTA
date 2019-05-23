@@ -14,7 +14,8 @@
   (Battery percentage now works as it should)
 • Optimized the size of statusbar icons on the right
   (Now icons are perfectly aligned)
-• Fixed Smart Charging
+• Improved Smart Charging
 • Updated Biometrics Configuration For Goodix
 • Updated TiltSensor Configuration
+• Improved Alipay fingerprint payment 
 • Add Vector icons for Dirac 
