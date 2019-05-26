@@ -1,23 +1,19 @@
-• Added Android Q like Settings searchbar
-• Added support for Pixel 3 live wallpapers on Ambient display
-• Added network traffic back to the statusbar for devices with notch
-• Added Lineage Touch HAL support
-• Added Via browser
-• Switched back to the old Music ticker
-• Improved Lockscreen visualizer
-• Improved QS edit layout
-• Improved Battery estimates switching
-• Disabled Battery estimates by default
-• Fixed SystemUI crash for some users
-• Fixed Aggressive battery auto mode
-• Fixed battery estimates showing in statusbar
-  (Battery percentage now works as it should)
-• Optimized the size of statusbar icons on the right
-  (Now icons are perfectly aligned)
-• Fixed Smart Charging
-• kernel upstremed to 3.18.140 (MAYHEM™-kernel)
-• Added support for compat vDSO
-• Snapdragon camera version-2.0 added
-• Enable some UX optimizations from stock
-• Add Vector icons for Dirac 
-• EAS implimentation done and eas config updated
+• Optimized the size of statusbar icons on the right 
+• Smart Charging compatibility improvements 
+• Increased media art blur 
+• Added more actions for HW keys/Navbar 
+• Fixed SystemUI crash when Portugese is set as system language 
+• Fixed disappearing Q clock 
+• Fixed Amber accent color 
+• Fixed Home button while ringing
+• Fixed Battery estimates showing in statusbar
+• DTV app update to newer version
+• Update GPS blobs from LA.UM.7.6.r1-03700-89xx.0
+• Add some new vector icon to moto shit
+• Enable metadata for FDE
+• Force hal1 only on whatsapp and instagram
+• Import carrier specific/telephony overlays from griffin
+• New qs tile icon for dirac
+• Switch to default call recording audio source
+• Add 5G NR buffer sizes
+• Sync some config files with stock
