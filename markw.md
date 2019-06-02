@@ -1,4 +1,12 @@
 ====================
+     02-06-2019
+====================
+
+   * Switching to ShihabZzz's device tree
+   * Added fast charge to kernel
+   * Synced with Havoc upstream
+
+====================
      30-05-2019
 ====================
 
