@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.4-20190414-tissot-Official.zip",
-      "version": "v2.4",
+      "filename": "Havoc-OS-v2.6-20190604-tissot-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "562005538",
-      "datetime": 1555268162,
-      "id": "f9b818e61f832e5253dbb771a99e55105a3806e276818a8933745e8a9bd4cbd6",
-      "url": "https://sourceforge.net/projects/havoc-os/files/tissot/Havoc-OS-v2.4-20190414-tissot-Official.zip/download"
+      "size": "565680598",
+      "datetime": 1559680347,
+      "id": "f9bc89ed970e6fcc4e28f667e641e31bfb4309aa113083df501deb20b6bacde9",
+      "url": "https://sourceforge.net/projects/havoc-os/files/tissot/Havoc-OS-v2.6-20190604-tissot-Official.zip/$
     }
   ]
 }
