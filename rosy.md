@@ -1,22 +1,15 @@
-• Added Enhanced battery estimates in QS
-• Added bolt when charging for Text battery style
-• Added seekbar to media notification
-• Added accents from Android Q
-• Added outdoor mode in LiveDisplay tile
-• Moved Music ticker to KeyguardSlice like Android Q
-• Improved statusbar icons alignment
-• Improved Android Q clock
-• Optimized the size of statusbar icons on the right
-• Smart Charging compatibility improvements
-• Increased media art blur
-• Added more actions for HW keys/Navbar
-• Fixed SystemUI crash when Portugese is set as system language
-• Fixed disappearing Q clock
-• Fixed Amber accent color
-• Fixed Home button while ringing
-• Fixed Battery estimates showing in statusbar
-• Removed HD capable notification
-• Update ZRAM configuration
-• Added AUDIO_CHANNEL_IN_STEREO to BT SCO Headset Mic 
-• WIFI build from vendor tree
-• Updated WIFI related stuff
+• Merged June security patches
+• Added an animation for charging
+• Added back Night Light
+• Added battery saving mode for location
+• Added toggle for lockscreen charging animation
+• Changed Android Q clock to Accent color
+• Updated Lawnchair to alpha-2081
+• Some more fixes/improvements
+• Updated audio configs
+• Added sound related blobs
+• Improved performance
+• Battery life improvements
+• Updated ADSP & Audio blobs from OP3
+• Add suport for DTS_EAGLE
+• Switch kernel to Wolf as inbuilt(rebased and added f2fs)
