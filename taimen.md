@@ -1,12 +1,8 @@
-• Added Android Q like Settings searchbar
-• Added support for Pixel 3 live wallpapers on Ambient display
-• Added network traffic back to the statusbar for devices with notch
-• Added Lineage Touch HAL support
-• Switched back to the old Music ticker
-• Improved Lockscreen visualizer
-• Improved QS edit layout
-• Improved Battery estimates switching
-• Disabled Battery estimates by default
-• Fixed SystemUI crash for some users
-• Fixed Smart charging for some devices
-• Fixed Aggressive battery auto mode
+• Merged June security patches
+• Added an animation for charging
+• Added back Night Light
+• Added battery saving mode for location
+• Added toggle for lockscreen charging animation
+• Changed Android Q clock to Accent color
+• Updated Lawnchair to alpha-2081
+• Some more fixes/improvements

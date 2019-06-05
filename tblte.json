@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190512-tblte-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190605-tblte-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "388675201",
-      "datetime": 1557586882,
-      "id": "52d042dbe069baf41e9728f593c086ddfab1105ab79e81df3bd432156866f918",
-      "url": "https://sourceforge.net/projects/havoc-os/files/tblte/Havoc-OS-v2.5-20190512-tblte-Official.zip/download"
+      "size": "394534759",
+      "datetime": 1559702959,
+      "id": "6f62d8ca4e27d9d2150702bf757c1609a605e3f261b1b3b36451d2f9df46cd43",
+      "url": "https://sourceforge.net/projects/havoc-os/files/tblte/Havoc-OS-v2.6-20190605-tblte-Official.zip/download"
     }
   ]
 }

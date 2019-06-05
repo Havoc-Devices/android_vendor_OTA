@@ -1,4 +1,26 @@
 ====================
+     30-05-2019
+====================
+
+   * Switching back to Nosgoth kernel
+   * Set proper battery capacity for phone
+   * Increase JPEG Quality (by YourDeathWish)
+   * Removed QC location provider (by Flex1911)
+   * Cleaned up some unused BT flags (by Matadeen Mishra)
+   * Removed notch capability (by ShihabZzz)
+
+====================
+     26-05-2019
+====================
+
+   * Smart charge fixed (by DennySPB)
+   * PowerHAL is set (by kondors1995)
+   * Virtual Display is set to 0 (by nichcream)
+   * Reverted OP3 Graphic and Media
+   * Slow Motion in GCam disabled (by Granrage)
+   * Sync with Havoc upstream
+
+====================
      22-05-2019
 ====================
 

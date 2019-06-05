@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190516-beryllium-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190604-beryllium-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "480265960",
-      "datetime": 1558010885,
-      "id": "6f2bb8d5149fa903956f124a02f365dffb968c29d434abd5fb890b5e6063d73e",
-      "url": "https://sourceforge.net/projects/havoc-os/files/beryllium/Havoc-OS-v2.5-20190516-beryllium-Official.zip/download"
+      "size": "484865292",
+      "datetime": 1559661072,
+      "id": "76096b65f5b56a16dbf05b7ce4551bb16988355b4942f8f20176888f693ee28d",
+      "url": "https://sourceforge.net/projects/havoc-os/files/beryllium/Havoc-OS-v2.6-20190604-beryllium-Official.zip/download"
     }
   ]
 }
