@@ -42,4 +42,6 @@
 • Added LiveDisplay support
 • Added touch hal support
 • Fixed known bugs
+********2019-06-05********
+• Fixed Menu button bug
 
