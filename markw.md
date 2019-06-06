@@ -1,4 +1,12 @@
 ====================
+     06-06-2019
+====================
+
+   * Fetched XiaomiParts from previous builds
+   * Sepolicy defined for live display (by DennySPB)
+   * Missing selinux rule was set for USB (by kondor1995)
+
+====================
      30-05-2019
 ====================
 

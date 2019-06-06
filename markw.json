@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190530-markw-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190606-markw-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "592042811",
-      "datetime": 1559193994,
-      "id": "7169b46dc2c370244b11c59de121844ae49f6c07aee5948518392f0175ff8a7b",
-      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v2.5-20190530-markw-Official.zip/download"
+      "size": "586645361",
+      "datetime": 1559827347,
+      "id": "41c30345de72abb2652c74c7434513718e97f6c81ff27b09c69f9c71cc35f6b5",
+      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v2.6-20190606-markw-Official.zip/download"
     }
   ]
 }
