@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190523-potter-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190605-potter-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "610739554",
-      "datetime": 1558593703,
-      "id": "8af77a88679b8f3c26507121613bba47bb9281c59656a95b0659150fb18cb44d",
-      "url": "https://sourceforge.net/projects/havoc-os/files/potter/Havoc-OS-v2.5-20190523-potter-Official.zip/download"
+      "size": "614681464",
+      "datetime": 1559742478,
+      "id": "d3d31b3835abb42b4ecffe2c02f3d8b27290e1b479717207afa3f86d278e8e73",
+      "url": "https://sourceforge.net/projects/havoc-os/files/potter/Havoc-OS-v2.6-20190605-potter-Official.zip/download"
     }
   ]
 }
