@@ -1,20 +1,16 @@
-• Merged May security patches
-• Added LiveDisplay
-• Added Pocket Judge
-• Added Force fullscreen for apps
-(Thanks to @jhenrique09)
-• Added fingerprint support for OP6T
-• Added Lockscreen visualizer customizations
-• Added Android Q style battery icon
-• Added Reading mode QS tile
-• Added advanced location tile options
-• Improved QS detail view
-• Changed NFC icon
-• Removed proximity check on wake
-• Fixed Battery icon padding
-• Fixed In-call UI layout
-• Fixed three finger swipe for screenshot
-• Fixed statusbar icon animation
-• Fixed DPI
-• Added Kcal 
+• Added new Gaming mode
+(Havoc Settings > Misc)
+• Added a toggle for charging animation
+• Added Battery temp in battery usage
+• Fixed analog clocks not refreshing in AOD
+• Improved Android Q clock related stuff
+• Some more fixes/improvements
 • Removed Device Settings
+• Merged June security patches
+• Added an animation for charging
+• Added back Night Light
+• Added battery saving mode for location
+• Added toggle for lockscreen charging animation
+• Changed Android Q clock to Accent color
+• Updated Lawnchair to alpha-2081
+• Some more fixes/improvements
