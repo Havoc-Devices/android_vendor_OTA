@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190529-herolte-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190608-herolte-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "503378027",
-      "datetime": 1559140136,
-      "id": "993978bfd8398a8b0b6ebf7e7060d800702b5e716be6da5a56b5da808b96d019",
-      "url": "https://sourceforge.net/projects/havoc-os/files/herolte/Havoc-OS-v2.5-20190529-herolte-Official.zip/$
+      "size": "507538348",
+      "datetime": 1560000766,
+      "id": "7cb56bf69c9bf67868470636819a734669a90fd0016edb3a35bb5e46b27de116",
+      "url": "https://sourceforge.net/projects/havoc-os/files/herolte/Havoc-OS-v2.6-20190608-herolte-Officia$
     }
   ]
 }
