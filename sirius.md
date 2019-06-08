@@ -1,3 +1,3 @@
-• June Security Patch
-• Havoc Upstream
-• Initial official
+* June Security Patch
+* Havoc Upstream
+* Initial official release
