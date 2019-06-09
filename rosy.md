@@ -1,15 +1,16 @@
-• Merged June security patches
-• Added an animation for charging
-• Added back Night Light
-• Added battery saving mode for location
-• Added toggle for lockscreen charging animation
-• Changed Android Q clock to Accent color
-• Updated Lawnchair to alpha-2081
-• Some more fixes/improvements
-• Updated audio configs
-• Added sound related blobs
-• Improved performance
-• Battery life improvements
-• Updated ADSP & Audio blobs from OP3
-• Add suport for DTS_EAGLE
-• Switch kernel to Wolf as inbuilt(rebased and added f2fs)
+• Added new Gaming mode
+  (Havoc Settings > Misc)
+• Added a toggle for charging animation
+• Added Battery temp in battery usage
+• Fixed analog clocks not refreshing in AOD
+• Improved Android Q clock related stuff
+• Dirac add QS tile
+• Increase number of max visible notifications icons to 6
+• Enable auto brightness by default 
+• Disable bluetooth by default
+• Add AOD support to Ambient Display
+• Enable smart charging
+• Updated all RIL blobs 
+• Enable Dual VOLTE
+• Added Oreo 9.5.30 fw inbuild
+• And other many more changes
