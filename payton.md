@@ -36,6 +36,12 @@ Kernel Changelog:-
     -qcacld-3.0
     -qca-wifi-host-cmn
 ==[09/06/19]==
+Device Changelog:-
+• ipacm: Fix memory leaks
+• Remove send_mic_mute_to_AudioManager overlay
+• overlay: enable ethernet in networkAttributes and radioAttributes
+• Use tether automatic upstream selection
+Kernel Changelog:-
 • Reverted more misc changes for stability
 • Hotfix: Revert last Wireless Update for now
 • Fix cpufreq: times:
