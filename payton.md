@@ -35,3 +35,12 @@ Kernel Changelog:-
     -fw-api
     -qcacld-3.0
     -qca-wifi-host-cmn
+==[09/06/19]==
+• Reverted more misc changes for stability
+• Hotfix: Revert last Wireless Update for now
+• Fix cpufreq: times:
+    -concurrent_active_time by pid
+    -concurrent_policy_time by pid
+    -/proc/uid_time_in_state
+    -/proc/uid_cpupower/concurrent_active_time
+    -/proc/uid_cpupower/concurrent_policy_time
