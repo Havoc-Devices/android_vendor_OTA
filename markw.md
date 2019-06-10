@@ -1,4 +1,14 @@
 ====================
+     10-06-2019
+====================
+
+   * CPU speed throttling to 2016 MHz is solved (thx @Alphajoza)
+   * Vibration pattern from Pixel 2 imported
+   * Unnecessary WiFi package is removed
+   * Set ZRAM for SWAP
+   * Synced with Havoc OS upstream
+
+====================
      06-06-2019
 ====================
 
