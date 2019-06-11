@@ -1,15 +1,9 @@
-• Added new Gaming mode
-  (Havoc Settings > Misc)
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
-• New Blobs from Pixel Q DP4 Release
-• Updated Build Fingerptint (Netflix Download fix)
-• includes EAS V6.1 Kernel
-• New Vibration HAL
-• Cleaned up init scripts
-• Merged CAF Version LA.UM.7.2.r1-07000
-• Updated GPS HAL by CAF
-• Fixed USB Gadget HAL
+• Reverted back to the old gaming mode
+• General bug fixes and improvements
+• Includes EAS V7 Kernel
+• Reverted back to old Vibration HAL
+• Fixed Hotspot after CAF merge
+• Fixed Vibration Intensity
+• Fixed random Reboot issue after Connecting to wifi
+• Added Anxiety I/O Scheduler
+• Fixed Low mic gain in Camera apps
