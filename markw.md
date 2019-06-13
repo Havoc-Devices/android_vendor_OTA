@@ -1,4 +1,17 @@
 ====================
+     12-06-2019
+====================
+
+   * Added Fast Charge toggle (in XiaomiParts)
+   * Added flinger velocity (smooth scrolling)
+   * Added NTP server for time sync
+   * Added GPS properties (thx SonicBSV)
+   * Revert vibration pattern
+   * Removed NFC HAL
+   * General code cleanup and alignment
+   * Synced with Havoc OS upstream
+
+====================
      10-06-2019
 ====================
 
