@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190518-j7xelte-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190612-j7xelte-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "387666499",
-      "datetime": 1558165266,
-      "id": "a42f6d3f44204e85285d75df7dd5980618d6c7723e071ed7848284e5dbbf427b",
-      "url": "https://sourceforge.net/projects/havoc-os/files/j7xelte/Havoc-OS-v2.5-20190518-j7xelte-Official.zip/download"
+      "size": "393856681",
+      "datetime": 1560348105,
+      "id": "fda692d4eb3ef4f3192338b527a81b1cda095b51dfb054fe8c146e17bb285c16",
+      "url": "https://sourceforge.net/projects/havoc-os/files/j7xelte/Havoc-OS-v2.6-20190612-j7xelte-Official.zip/download"
     }
   ]
 }

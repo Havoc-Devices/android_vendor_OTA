@@ -1,19 +1,15 @@
-• Optimized the size of statusbar icons on the right 
-• Smart Charging compatibility improvements 
-• Increased media art blur 
-• Added more actions for HW keys/Navbar 
-• Fixed SystemUI crash when Portugese is set as system language 
-• Fixed disappearing Q clock 
-• Fixed Amber accent color 
-• Fixed Home button while ringing
-• Fixed Battery estimates showing in statusbar
-• DTV app update to newer version
-• Update GPS blobs from LA.UM.7.6.r1-03700-89xx.0
-• Add some new vector icon to moto shit
-• Enable metadata for FDE
-• Force hal1 only on whatsapp and instagram
-• Import carrier specific/telephony overlays from griffin
-• New qs tile icon for dirac
-• Switch to default call recording audio source
-• Add 5G NR buffer sizes
-• Sync some config files with stock
+• Merged June security patches
+• Added an animation for charging
+• Added back Night Light
+• Added battery saving mode for location
+• Added toggle for lockscreen charging animation
+• Changed Android Q clock to Accent color
+• Updated Lawnchair to alpha-2081
+• Some more fixes/improvements
+• DTV app update to v.01.01.0660 
+• Add XT1804 thermal configs from stock OPSS28.65-36-6 
+• Add Vector Icons for Fingerprint Gestures
+• Increase notification icon count
+• Enable Qualcomm Boost Framework
+• Disable bluetooth by default
+~~~~~~~~~~~~ENJOY~~~~~~~~~~~~~ 

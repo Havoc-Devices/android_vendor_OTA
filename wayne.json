@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190604-wayne-Official.zip",
+      "filename": "Havoc-OS-v2.6-20190611-wayne-Official.zip",
       "version": "v2.6",
       "romtype": "Official",
-      "size": "717668337",
-      "datetime": 1559660945,
-      "id": "d1c053cbb1cacce9271c725e255153fd19e4cd17f15a91da507850f980c959dd",
-      "url": "https://sourceforge.net/projects/havoc-os/files/wayne/Havoc-OS-v2.6-20190604-wayne-Official.zip/download"
+      "size": "738312355",
+      "datetime": 1560210127,
+      "id": "e3362112f736ca5b2c1c9afe2738d61b17833074a2aa15b264ef088d7f6b2791",
+      "url": "https://sourceforge.net/projects/havoc-os/files/wayne/Havoc-OS-v2.6-20190611-wayne-Official.zip/download"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190529-hero2lte-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190608-hero2lte-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "503348487",
-      "datetime": 1559153436,
-      "id": "1e5a387f6d30bb3143b26deefeeb512e29a37ccf674b5f895d3fe22d976be043",
-      "url": "https://sourceforge.net/projects/havoc-os/files/hero2lte/Havoc-OS-v2.5-20190529-hero2lte-Official.zi$
+      "size": "507162173",
+      "datetime": 1560007583,
+      "id": "490de920a784a011eef3914e4afe696b2809e143b5981dcb829237ec0b914494",
+      "url": "https://sourceforge.net/projects/havoc-os/files/hero2lte/Havoc-OS-v2.6-20190608-hero2lte-Official.zi$
     }
   ]
 }
