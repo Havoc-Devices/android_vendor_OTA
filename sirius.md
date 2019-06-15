@@ -1,4 +1,4 @@
 * June Security Patch
 * Havoc Upstream
-* Initial official release
+* Switch back to enforcing selinux
 * Some more fixes/improvement
