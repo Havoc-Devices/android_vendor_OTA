@@ -1,14 +1,9 @@
-• Switch to new 4.9 trees
-• Merged June security patches
-• Added an animation for charging
-• Added back Night Light
-• Added battery saving mode for location
-• Added toggle for lockscreen charging animation
-• Changed Android Q clock to Accent color
-• Updated Lawnchair to alpha-2081
-• Some more fixes/improvements
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
+• Fix USB tethering
+• Upstream kernel to 4.9.182
+• Revert GPS blobs update
+• Move xiaomi doze inside display settings
+• Build live display hal
+• Fix goodix fingerprint acting as a button
+• Fix call hanging up doesn't work sometimes
+• Add new IMS apk (fixes incoming calls issue on volte)
+• Remove A/B stuff from tree
