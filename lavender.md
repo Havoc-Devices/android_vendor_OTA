@@ -2,6 +2,8 @@
 • Re-enabled HAL3 (u can disable it for fix WhatsApp videocalls)
 • Fixed off-charging
 • Fixed rounded corners
+• Enabled A-GPS
+• Fixed typo of build.prop
 • Powered by Evira 2.6
 
 ••••• 17-06-2019 •••••
