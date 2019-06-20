@@ -1,14 +1,13 @@
-• Added Enhanced battery estimates in QS
-• Added bolt when charging for Text battery style
-• Added user profile icon in setting
-• Added seekbar to media notification
-• Added accents from Android Q
-• Added outdoor mode in LiveDisplay tile
-• Moved Music ticker to KeyguardSlice like Android Q
-• Improved statusbar icons alignment
-• Improved Android Q clock
-• Fixed SystemUI crash with auto face unlock
+• Added a toggle for charging animation
+• Added Battery temp in battery usage
+• Fixed analog clocks not refreshing in AOD
+• Improved Android Q clock related stuff
+• Some more fixes/improvements
 
  Device changelog
-• Gcam added again. (Snap Camera remains so you can choose to keep Gcam or Snap Camera)
-• Update Device Tree
+• June Security Patch
+• Updated MotoActions
+• Updated Gcam
+• Fix perms for atfwd
+• Fix black screen bug
+• Some more fixes/improvements
