@@ -1,10 +1,17 @@
-Havoc-OS v2.6 Changelog 04-06-19:
+Havoc-OS v2.6 Changelog 23-06-19:
 
-• Merged June security patches
-• Added an animation for charging
-• Added back Night Light
-• Added battery saving mode for location
-• Added toggle for lockscreen charging animation
-• Changed Android Q clock to Accent color
-• Updated Lawnchair to alpha-2081
-• Some more fixes/improvements
+•	Added Android Q activity animations
+•	Added new QS tile styles
+•	Added new Gaming mode
+•	Improved Pocket mode
+•	Improved LiveDisplay
+•	Improved media notifications
+•	Improved statusbar items layout
+•	Improved navbar pixel animation
+•	Changed battery stats reset level to 95%
+•	Removed screenshot delay
+•	Add flashlight option to alert slider
+•	Add low, full, and auto brightness to alert slider
+•	New powerHAL (DT2W toggle is now in havoc settings > device)
+•	Updated Oneplus camera stuff
+•	Other tweaks
