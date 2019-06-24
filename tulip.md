@@ -1,7 +1,10 @@
+• Added Android Q activity animations
+• Added new QS tile styles
 • Added new Gaming mode
-  (Havoc Settings > Misc)
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
