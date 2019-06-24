@@ -1,4 +1,17 @@
 ====================
+     24-06-2019
+====================
+
+   * Updated power profile
+   * Disabled G11h support on WiFi
+   * Removed ANT+ HAL (very-very limited usage)
+   * Safetynet bypass hack (thx for Granrage)
+   * Update of LiveDisplay HAL
+   * Made app startup faster
+   * Synced with upstream kernel source
+   * Synced with upstream Havoc source
+
+====================
      12-06-2019
 ====================
 
