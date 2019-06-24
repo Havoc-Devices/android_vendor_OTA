@@ -1,13 +1,12 @@
-• Optimized the size of statusbar icons on the right
-• Smart Charging compatibility improvements
-• Increased media art blur
-• Added more actions for HW keys/Navbar
-• Fixed SystemUI crash when Portugese is set as system language
-• Fixed disappearing Q clock
-• Fixed Amber accent color
-• Fixed Home button while ringing
-• Fixed Battery estimates showing in statusbar
-• Improved Smart Charging
-• Added Vector icons for Dirac
-• Kernel Improvements
-• Note: Use latest TWRP/OFRP recovery to avoid issues
+• Added Android Q activity animations
+• Added new QS tile styles
+• Added new Gaming mode
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
+• Added aptX blobs from crosshatch
+• Cleanup camera test packages

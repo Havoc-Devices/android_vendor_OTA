@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190524-santoni-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190624-santoni-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "579514269",
-      "datetime": 1558660707,
-      "id": "bab4543e48b5771993e733ef2f5b99986232654c8f4e7d2d29bbc18ce6267ecf",
-      "url": "https://sourceforge.net/projects/havoc-os/files/santoni/Havoc-OS-v2.5-20190524-santoni-Official.zip/download"
+      "size": "573327812",
+      "datetime": 1561338690,
+      "id": "6571d40e375df29221a91342b22f19b7c47a770e03774ea54b74e296bc378425",
+      "url": "https://sourceforge.net/projects/havoc-os/files/santoni/Havoc-OS-v2.6-20190624-santoni-Official.zip/download"
     }
   ]
 }
