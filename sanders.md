@@ -1,24 +1,23 @@
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
-• Import CAF binderized power hal
-• Enable touch optimizations
-• Enable Smart Pixels
-• Update fingerprint props to Crosshatch(Pixel3XL)
-• Match default hotspot ssid with device name
-• Add support for d2wake
-• New MAYHEM™-Unravel version-2.0 kernel
-• Default frequency set to 2.0gHz(can be overclock manually)
-• Spectrum profile update for new kernel
-• Some kernel related bug fix
-• FP booster
-• Better and faster camera focus
-• Wireguard udated
-• Sound control with speaker and mic gain
-• Fix some memory leaks
-• Vibration: Add interface to control intensity
-• DTS-Eagle intergrated
-• Only stock cpu freq Gov. and I/O scheduler (Bonus:Smartmax_Eps)
-• Some I/O sched upstream
+• Added Android Q activity animations
+• Added new QS tile styles
+• Added new Gaming mode
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
+• Updated finger blobs from Stock OPS28.65-36-11
+• Updated camera blobs from Stock OPS28.65-36-11
+• New MAYHEM™-Unravel version-3.0 kernel
+• Caf based kernel 
+• Built with 9.0.4 Clang
+• Thermal-engine: pull changes from tag 'LA.UM.7.6.r1-05300-89xx'
+• Update brightness overlays from marlin
+• Added some wifi configs from stock OPSS28.65-36-6 
+• disable adaptive low memory killer
+• Uprev Qtiradio to v2.3 
+• Update sensor_def_qcomdev.conf from stock OPS28.65-36-11 
+• Move Battery Icon to QS Header 
+• And some more Optimisations & fixes
