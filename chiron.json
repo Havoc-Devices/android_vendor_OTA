@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190608-chiron-Official.zip",
+      "filename": "Havoc-OS-v2.6-20190625-chiron-Official.zip",
       "version": "v2.6",
       "romtype": "Official",
-      "size": "596668040",
-      "datetime": 1559934369,
-      "id": "b387510bcc329c20c21f439ffb04784714dc9d3dffa95d836730128f8df6594b",
-      "url": "https://sourceforge.net/projects/havoc-os/files/chiron/Havoc-OS-v2.6-20190608-chiron-Official.zip/download"
+      "size": "596217292",
+      "datetime": 1561382670,
+      "id": "5a04553c0019efa9888417a046dce74b5832a0d43a98655761b4d916bb219d9a",
+      "url": "https://sourceforge.net/projects/havoc-os/files/chiron/Havoc-OS-v2.6-20190625-chiron-Official.zip/download"
     }
   ]
 }
