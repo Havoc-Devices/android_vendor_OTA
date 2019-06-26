@@ -1,7 +1,9 @@
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Fixed fingerprint enrollment bug
-• Updated Wifi driver
-• Updated vendor blobs(Graphics,Audio,..)
+• Added Android Q activity animations
+• Added new QS tile styles
+• Added new Gaming mode
+• Improved LiveDisplay and media notifications
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
+• Reverted audio blobs
+• Improved Quick Charge detection
+• Nuked YUSettings
