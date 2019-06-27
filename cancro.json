@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190508-cancro-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190627-cancro-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "402411694",
-      "datetime": 1557312284,
-      "id": "ecfb136a7c1e24038f4ddb61c362ed2a9474fe5b00c29fa460d3e1d1a195adf6",
-      "url": "https://sourceforge.net/projects/havoc-os/files/cancro/Havoc-OS-v2.5-20190508-cancro-Official.zip/download"
+      "size": "408525403",
+      "datetime": 1561603018,
+      "id": "9c719fb493fb981abe14e15df1c4c329a248e20f9a77de98f2fca93885898dcc",
+      "url": "https://sourceforge.net/projects/havoc-os/files/cancro/Havoc-OS-v2.6-20190627-cancro-Official.zip/download"
     }
   ]
 }
