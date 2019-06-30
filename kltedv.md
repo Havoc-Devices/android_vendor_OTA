@@ -1,44 +1,12 @@
-Havoc-OS v2.4 Changelog 02-04-19:
+Havoc-OS v2.6 Changelog 23-06-19:
 
-• Merged April security patches
-• Added media cover art filters
-• Added long squeeze actions for Pixel
-• Added Browser
-• Improved gaming mode tile
-
-Havoc-OS v2.4 Changelog 07-04-19:
-
-• Added Agressive battery settings
-• Added deep sleep info to uptime
-• Added 2 more variants for Cover art filters
-• Added OnePlus Red accent color
-• Added Black Pearl theme color
-• Added Slim recents enter/exit animation
-• Added Statusbar logo customizations
-• Fixed Cover art blur for some music apps
-• Fixed screen unpinning with hw keys
-• Fixed old mobile type icons
-• Removed Browser temporarily
-• Imported translations from Crowdin
-
-Havoc-OS v2.5 Changelog 11-05-19:
-
-• Added toggle to enable FP detection in Pocket mode
-• Improved date layout with text clock
-• Improved Pocket mode UI
-• Removed forced battery % when charging
-• Fixed NavBar tuner crash when using Oreo QS style
-• Fixed theming of notification shelf dot
-• Updated translations
-
-Havoc-OS v2.5 Changelog 22-05-19:
-
-• Optimized the size of statusbar icons on the right
-• Smart Charging compatibility improvements
-• Increased media art blur
-• Added more actions for HW keys/Navbar
-• Fixed SystemUI crash when Portugese is set as system language
-• Fixed disappearing Q clock
-• Fixed Amber accent color
-• Fixed Home button while ringing
-• Fixed Battery estimates showing in statusbar
+• Added Android Q activity animations
+• Added new QS tile styles
+• Added new Gaming mode
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
