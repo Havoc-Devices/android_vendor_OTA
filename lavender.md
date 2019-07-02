@@ -1,3 +1,12 @@
+••••• 02-07-2019 •••••
+Device Changelog:
+• Added HAL3 | HAL1 Switch, you can find it in Settings > System > Advanced and don't need to reboot for apply changes.
+• Disabled ALMK
+• Updated Wi-FI Configs
+• Turn on Adaptive Brightness by default
+• Picked alarm and time blobs from SubDragonzj tree
+• Added libinit_lavender
+
 ••••• 30-06-2019 •••••
 ROM Changelog:
 • Added Android Q activity animations
