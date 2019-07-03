@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190614-X01BD-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190703-X01BD-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "652031236",
-      "datetime": 1560504927,
-      "id": "1ada1a2ef46a232556831a0ceb2f4b35819d036e5243c3592be704358cf3fb19",
-      "url": "https://sourceforge.net/projects/havoc-os/files/X01BD/Havoc-OS-v2.6-20190614-X01BD-Official.zip/download"
+      "size": "644344948",
+      "datetime": 1562155497,
+      "id": "94ce163913c9d3978a442c26333da14268ee540baf0b2fb324f29cd25126f936",
+      "url": "https://sourceforge.net/projects/havoc-os/files/X01BD/Havoc-OS-v2.7-20190703-X01BD-Official.zip/download"
     }
   ]
 }
