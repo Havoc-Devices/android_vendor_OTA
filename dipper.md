@@ -2,23 +2,24 @@
 •••••••••••••••••••••••••••••••••••••
 • ROM Changelog:
 •••••••••••••••••••••••••••••••••••••
-• Added Battery Reset switch for Smart charging
-• Removed ANX for NOW
-• Fixed missing Fingerprint 
-• optimize Statusbar icons with notch
-• Update Gcam to fix crashes
-• Fix Wifi-Display (Miracast)
-• Cleanup and optimize device tree
-• Update blobs to 9.6.20
-• Optimize Qs Weather Icon
-• Some optimizations and cleanups
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+• Fixed Bluetooth audio issues
+• Fixed lagging and battery drain
+• Improve stability - tested two days no reboots
+• Fix QS weather vanishing after reboots
+• Fix UI Glichtes on advanced notch settings (immersive and so on)
 • and much more ...
  
 •••••••••••••••••••••••••••••••••••••
-• Kernel Changelog: by @Nulled_patronxx
+• Kernel Changelog: 
 •••••••••••••••••••••••••••••••••••••
-• rebased Kernel - Changelog will come a bit later ...
-
+• use canting v2 till our kernel is stable again
 •••••••••••••••••••••••••••••••••••••
 • Instruction:
 •••••••••••••••••••••••••••••••••••••
