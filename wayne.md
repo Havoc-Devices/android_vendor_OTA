@@ -1,19 +1,16 @@
-• Added Android Q activity animations
-• Added new QS tile styles
-• Added new Gaming mode
-• Improved Pocket mode
-• Improved LiveDisplay
-• Improved media notifications
-• Improved statusbar items layout
-• Improved navbar pixel animation
-• Changed battery stats reset level to 95%
-• Removed screenshot delay
-• Includes EAS V8.1 Kernel
-• New Energy Model for better batterylife
-• Merged 4.4.183 and AOSP 4.4 kernel
-• New Powerhal (libperfmgr)
-• Brightness Configuration from Pixel
-• Updated Vibration intensity values from Pixel
-• Add Usb Fastcharge to XiaomiParts
-• Added back EIS Switch
-• Fixed Stopping Audio when switch Apps 
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+• Includes EAS V9.1 Kernel
+• Merged 4.4.184
+• New Wifi configuration
+• Vendor files updated to last Miui
+• changeable cpu boosts
+• Revert to Stock Touch driver
+• Fix broken Dirac (mi sound)
+• Block Second Fingerprint keyevent
+• Small other improvements
