@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190516-violet-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.7-20190703-violet-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "516379618",
-      "datetime": 1557992810,
-      "id": "c983e95c659af273a3193059b9117962209959ccfe4a4bd00c1f8b7c6b0a4996",
-      "url": "https://sourceforge.net/projects/havoc-os/files/violet/Havoc-OS-v2.5-20190516-violet-Official.zip/download"
+      "size": "808554334",
+      "datetime": 1562073602,
+      "id": "f221846c9cc15983beeb3150a737235b5886c03ab1c7fea316ba8f135db564df",
+      "url": "https://sourceforge.net/projects/havoc-os/files/violet/Havoc-OS-v2.7-20190703-violet-Official.zip/download"
     }
   ]
 }
