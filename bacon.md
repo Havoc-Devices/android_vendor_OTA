@@ -1,5 +1,7 @@
-• Lets make it Official
-• Added Show battery icon in the QS header
-• FZ kerrnel Update for v3
-• Set Stock profile after boot
-• Update from source
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
