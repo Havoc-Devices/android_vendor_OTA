@@ -1,16 +1,16 @@
-• Added Android Q activity animations
-• Added new QS tile styles
-• Added new Gaming mode
-• Improved Pocket mode
-• Improved LiveDisplay
-• Improved media notifications
-• Improved statusbar items layout
-• Improved navbar pixel animation
-• Changed battery stats reset level to 95%
-• Removed screenshot delay
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
 
 ********DEVICE CHANGELOG********
-• General bug fixes and improvement
-• Lets go to hispeed performance
+• Fixed brightness slider reaction (we had this bug in all pie roms)
+• Fixed Rom bloat
+• Improved Live Display hal
+• Improved NFC
+• Fixed some minor issues
 
 
