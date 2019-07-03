@@ -1,16 +1,22 @@
-• Added new Gaming mode
-  (Havoc Settings > Misc)
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Dirac add QS tile
-• Increase number of max visible notifications icons to 6
-• Enable auto brightness by default 
-• Disable bluetooth by default
-• Add AOD support to Ambient Display
-• Enable smart charging
-• Updated all RIL blobs 
-• Enable Dual VOLTE
-• Added Oreo 9.5.30 fw inbuild
-• And other many more changes
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+• Added Android Q activity animations
+• Added new QS tile styles
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
+• Update fw to miui 9.6.20
+• Added custom volte ico
+• Improve auto brightness
+• Add call recording overlay
+• Add vibration tuning from stock miui
+• Update fstab
