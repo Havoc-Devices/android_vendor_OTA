@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190624-ks01ltexx-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190702-ks01ltexx-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "380969578",
-      "datetime": 1561318323,
-      "id": "66c2b0e1e347367b9da895202ad5e2c3b2ed2e70f708ba2218832d979b942459",
-      "url": "https://sourceforge.net/projects/havoc-os/files/ks01ltexx/Havoc-OS-v2.6-20190624-ks01ltexx-Official.zip/download"
+      "size": "378722482",
+      "datetime": 1562091941,
+      "id": "dec21d698f2aca93cb1aaa66b73d04f7f2953790cad6d67c7a6ec52006fcb04c",
+      "url": "https://sourceforge.net/projects/havoc-os/files/ks01ltexx/Havoc-OS-v2.7-20190702-ks01ltexx-Official.zip/download"
     }
   ]
 }

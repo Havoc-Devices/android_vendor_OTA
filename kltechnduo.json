@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190528-kltechnduo-Official.zip",
-      "version": "v2.5",
+      "filename": "Havoc-OS-v2.6-20190629-kltechnduo-Official.zip",
+      "version": "v2.6",
       "romtype": "Official",
-      "size": "396992641",
-      "datetime": 1559007206,
-      "id": "f9a308009fad93938acb04807b516a07d0e6d7ae91573a75c87bff27a9344662",
-      "url": "https://sourceforge.net/projects/havoc-os/files/kltechnduo/Havoc-OS-v2.5-20190528-kltechnduo-Official.zip/downloa$
+      "size": "401088362",
+      "datetime": 1561780981,
+      "id": "96fc292b9e98f7a77854cf19229382abe100765443dd1539613f65392962ab1f",
+      "url": "https://sourceforge.net/projects/havoc-os/files/kltechnduo/Havoc-OS-v2.6-20190629-kltechnduo-Official.zip/download"
     }
   ]
 }

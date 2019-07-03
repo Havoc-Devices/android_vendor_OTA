@@ -1,18 +1,16 @@
-• Reverted back to the old gaming mode 
-• General bug fixes & improvements 
-• Switch to libperfmgr powerhint 
-• Hardcode node for dt2w implementation 
-• Updated Power HAL to 1.3 
-• Fixed Wifi-Display 
-• Added Crosshatch Build Fingerprint(Now Safetney status will paas and also fixed the device name shows as HM Note 3)
-• Switched to new ZenfoneParts with features
-* Camera2 API Toggle 
-* Torch Brightness Control
-* Haptic Feedback Control
-* KCAL Display Calibration
-* Grayscale & KCAL Presets
-* Spectrum Profiles
-* Dirac Sound Enhancer
-* Headphone Gain
-* Microphone Gain
-• Upstreamed kernel fo 4.4.181
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+• Fixed updated version of Gaana app creating continous SystemUI reboots
+
+* Device Side:
+• Removed prebuilt GoogleCamera
+• ZenfoneParts: Added Spectrum QS Tile
+• Fixed Dirac's denial
+• Update fingerprint to PQ3A.190705.001
+• Fixed poweroff charging animation(didnt checked)
+• Safetynet Passes without magisk or any mods
