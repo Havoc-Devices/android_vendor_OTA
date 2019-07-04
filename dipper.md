@@ -1,6 +1,15 @@
-
 •••••••••••••••••••••••••••••••••••••
-• ROM Changelog:
+• ROM Changelog: 04.07.2019
+•••••••••••••••••••••••••••••••••••••
+• Fixed Qs Weather not able to disable
+• Update Google Camera
+• Fix GoogleCamera Front Camera issue (Front IR Camera)
+• Optimize Statusbar icons for notch
+• Fix some glitches
+• Notification music seekbar improved
+• Fix some wrong strings
+•••••••••••••••••••••••••••••••••••••
+• ROM Changelog: 03.07.2019
 •••••••••••••••••••••••••••••••••••••
 • Merged July Security Patches
 • Improved Gaming mode
