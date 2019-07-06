@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190626-land-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190706-land-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "528233889",
-      "datetime": 1561543170,
-      "id": "554be131e24ca0cc38702ed87eefe063faf90ac545e426c182b66996120b55d1",
-      "url": "https://sourceforge.net/projects/havoc-os/files/land/Havoc-OS-v2.6-20190626-land-Official.zip/download"
+      "size": "525375841",
+      "datetime": 1562415188,
+      "id": "a9bd2fadcc361f8610002d4d28ff364457591b373760a6d3fcd5378a9b6a1183",
+      "url": "https://sourceforge.net/projects/havoc-os/files/land/Havoc-OS-v2.7-20190706-land-Official.zip/download"
     }
   ]
 }
