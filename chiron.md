@@ -1,16 +1,9 @@
-• Added new Gaming mode
-(Havoc Settings > Misc)
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
-• Removed Device Settings
-• Merged June security patches
-• Added an animation for charging
-• Added back Night Light
-• Added battery saving mode for location
-• Added toggle for lockscreen charging animation
-• Changed Android Q clock to Accent color
-• Updated Lawnchair to alpha-2081
-• Some more fixes/improvements
+• Fix offline charging
+• fix corner padding
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
