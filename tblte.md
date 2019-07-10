@@ -8,12 +8,16 @@
 
 ********DEVICE CHANGELOG********
 
+• General bug fixes and improvement
+• Fixed menu key
 • Fixed Rom bloat
-• Fixed chrging bug in some devices
-• Improved Bluetooth
+• Fixed chrging to 100%
+• Fixed Bluetooth
+• Fixed Bluetooth Audio call
+• Improved Fast chrging
 • Improved Live Display hal
 • Improved NFC
 • Improved memory
 • Fixed some minor issues
-
+• Added home button long press support
 
