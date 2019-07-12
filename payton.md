@@ -19,10 +19,12 @@
 • Updated Lawnchair to alpha-2238
 • Other fixes and improvements
 ===PAYTON===
-==[30/06/19]==
+==[11/07/19]==
 Device Changelog:-
-• Rebase DT
-• Fix random battery drain in Doze
-• Kang Brightness overlays from marlin
+• Fix Radio/VoLTE
+• Disable AOD by Default
+• Complete Rework of the Manifest/matrix implementation
+• Remove SoundTrigger (Not Working)
 Kernel Changelog:-
-• Fixed some random hangs/lags
+• Upstream Kernel --> [4.4.185]
+• Build with Clang --> [9.0.5]
