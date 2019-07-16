@@ -1,4 +1,20 @@
 ====================
+     16-07-2019
+====================
+
+   * Synced with upstream Havoc source
+   * Enable default support for Aptx Adaptive (thx for mishra)
+   * Removed ANT+ completely
+   * VoLTE properties are enabled
+   * Qualcomm Boot Framework enabled
+   * Finger Print is silented in the log
+   * Cleanup & Update USB configuration (thx for zeelog)
+   * Update Telecomm & Telephony Overlay (thx for ShihabZzz)
+   * Critical apps are pinned to avoid swapping (thx for Jorim)
+   * General performance and stability improvements
+   * General code cleanup
+
+====================
      02-07-2019
 ====================
 
