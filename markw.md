@@ -6,7 +6,7 @@
    * Enable default support for Aptx Adaptive (thx for mishra)
    * Removed ANT+ completely
    * VoLTE properties are enabled
-   * Qualcomm Boot Framework enabled
+   * Qualcomm Boost Framework enabled
    * Finger Print is silented in the log
    * Cleanup & Update USB configuration (thx for zeelog)
    * Update Telecomm & Telephony Overlay (thx for ShihabZzz)
