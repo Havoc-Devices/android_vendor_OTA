@@ -1,8 +1,11 @@
-• Merged July Security Patches
-• Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
-• WiFi ac detection
+• Added Gaming mode QS tile
+• Improved Gaming mode,OP gestures feedback duration,Aggressive battery
+• Improved LiveDisplay,Pocket lock
+• Fixed crash with some music players
+• Performance improvements
+• Fixed Offline Charging counter
+• Added stock adreno firmware
+• Fix slow touchscreen wakeup
+• Updated Graphics blobs
+
 
