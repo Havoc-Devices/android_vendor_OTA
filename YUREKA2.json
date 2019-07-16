@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190629-YUREKA2-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190716-YUREKA2-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "569374449",
-      "datetime": 1561821566,
-      "id": "1b4f06635855e1fb4f2f35cb8bcf0d83ae9676dbcd9de0afb850a667d00918fe",
-      "url": "https://sourceforge.net/projects/havoc-os/files/YUREKA2/Havoc-OS-v2.6-20190629-YUREKA2-Official.zip/download"
+      "size": "567888784",
+      "datetime": 1563259661,
+      "id": "fbc67ae077b217a4111b1b4bbec7c944b0ec56e507da8a5307dded6d967debb5",
+      "url": "https://sourceforge.net/projects/havoc-os/files/YUREKA2/Havoc-OS-v2.7-20190716-YUREKA2-Official.zip/download"
     }
   ]
 }

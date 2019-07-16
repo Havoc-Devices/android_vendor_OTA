@@ -1,18 +1,11 @@
-• Merged June security patches
-• Added an animation for charging
-• Added back Night Light
-• Added battery saving mode for location
-• Added toggle for lockscreen charging animation
-• Changed Android Q clock to Accent color
-• Updated Lawnchair to alpha-2081
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
-• Updated to MIUI V10.3.1.0 PEIMIXM (pie blobs) 
-• Removed MIUI Camera
-• Added Google Camera
-• Disable 4K on front cam
-• Added thermal changes 
-
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+• Add dummy perf profile
+• Update thermals config
+• Kernel compiled with clang 9.0.4
+• Upstreamed Kernel with tag 4.4.184 

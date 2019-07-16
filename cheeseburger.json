@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190610-cheeseburger-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190705-cheeseburger-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "855304984",
-      "datetime": 1560162993,
-      "id": "770a036be1dfd19b7e5eecb004d4ffdacbfcfdf07ef0976ab2f6a563c0a40bf8",
-      "url": "https://sourceforge.net/projects/havoc-os/files/cheeseburger/Havoc-OS-v2.6-20190610-cheeseburger-Official.zip/download"
+      "size": "851254896",
+      "datetime": 1562328321,
+      "id": "7db70002a41ec8233d6dc50e777d22fcdaf0901bbeeb7d0f8add3cc37c05e7bd",
+      "url": "https://sourceforge.net/projects/havoc-os/files/cheeseburger/Havoc-OS-v2.7-20190705-cheeseburger-Official.zip/download"
     }
   ]
 }

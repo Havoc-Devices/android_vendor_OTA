@@ -1,4 +1,18 @@
 ••••• 02-07-2019 •••••
+ROM Changelog:
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
+
+Device Changelog:
+• Updated Alarm blobs from MIUI 9.6.27
+• Re-added HighSpeed profiles for codecs
+
+••••• 02-07-2019 •••••
 Device Changelog:
 • Added HAL3 | HAL1 Switch, you can find it in Settings > System > Advanced and don't need to reboot for apply changes.
 • Disabled ALMK

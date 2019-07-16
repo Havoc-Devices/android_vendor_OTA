@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190629-kltedv-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190706-kltedv-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "398671825",
-      "datetime": 1561773348,
-      "id": "18ecf07016725afac5eeedbcfc3cdadeea490b3071b90d8bba08020ff2523a38",
-      "url": "https://sourceforge.net/projects/havoc-os/files/kltedv/Havoc-OS-v2.6-20190629-kltedv-Official.zip/download"
+      "size": "396354684",
+      "datetime": 1562452746,
+      "id": "e8b943ccdd6f4a93f73c15d4d644971756d98e349f44bfd25f35ffea0523c385",
+      "url": "https://sourceforge.net/projects/havoc-os/files/kltedv/Havoc-OS-v2.7-20190706-kltedv-Official.zip/download"
     }
   ]
 }
