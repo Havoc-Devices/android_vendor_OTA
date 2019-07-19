@@ -1,9 +1,11 @@
-• move battery estimate to QS top
-• add fingerprint boost driver to kernel
-• Merged July Security Patches
+• fix smart charging
+• Upstream kernel to 4.9.185
+• Added Gaming mode QS tile
 • Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
+• Improved OP gestures feedback duration
+• Improved Aggressive battery
+• Improved LiveDisplay
+• Improved Pocket lock
+• Fixed crash with some music players
+• Performance improvements
 • Other fixes and improvements
