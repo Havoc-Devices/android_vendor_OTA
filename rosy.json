@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190703-rosy-Official.zip",
+      "filename": "Havoc-OS-v2.7-20190720-rosy-Official.zip",
       "version": "v2.7",
       "romtype": "Official",
-      "size": "623683811",
-      "datetime": 1562166234,
-      "id": "59e988cb4816ab5312b01abd7e85b52dc189776b7086bbbfc70ea2ccff66bd27",
-      "url": "https://sourceforge.net/projects/havoc-os/files/rosy/Havoc-OS-v2.7-20190703-rosy-Official.zip/download"
+      "size": "623997116",
+      "datetime": 1563619479,
+      "id": "7d25eae66e3376a1ef3c9c080ea3c652db6def4b42eb336059ed6a1ab44b5503",
+      "url": "https://sourceforge.net/projects/havoc-os/files/rosy/Havoc-OS-v2.7-20190720-rosy-Official.zip/download"
     }
   ]
 }

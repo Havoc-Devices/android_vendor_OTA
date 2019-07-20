@@ -1,22 +1,18 @@
-• Merged July Security Patches
+• Added Gaming mode QS tile
 • Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
-• Other fixes and improvements
-• Added Android Q activity animations
-• Added new QS tile styles
-• Improved Pocket mode
+• Improved OP gestures feedback duration
+• Improved Aggressive battery
 • Improved LiveDisplay
-• Improved media notifications
-• Improved statusbar items layout
-• Improved navbar pixel animation
-• Changed battery stats reset level to 95%
-• Removed screenshot delay
-• Update fw to miui 9.6.20
-• Added custom volte ico
-• Improve auto brightness
-• Add call recording overlay
-• Add vibration tuning from stock miui
-• Update fstab
+• Improved Pocket lock
+• Fixed crash with some music players
+• Performance improvements
+• Other fixes and improvements
+• Update blobs from Tissot
+• Update nitz radio properties 
+• Set mobile data user preference
+• Update Graphics stack from Aquarius X2 (Zangya) 
+• FM Radio: Refactor & Cleanup
+• Fixed vibration latancy
+• Update fw to miui_HM5Global_9.6.27_6563908eef_8.1
+• And some other improvements
+
