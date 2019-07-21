@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.6-20190613-nx531j-Official.zip",
-      "version": "v2.6",
+      "filename": "Havoc-OS-v2.7-20190720-nx531j-Official.zip",
+      "version": "v2.7",
       "romtype": "Official",
-      "size": "552892881",
-      "datetime": 1560432580,
-      "id": "a85d0e96143cec2a00814953d21e20a4c9eec55bcf99c730d7df382ce0cfae0b",
-      "url": "https://sourceforge.net/projects/havoc-os/files/nx531j/Havoc-OS-v2.6-20190613-nx531j-Official.zip/download"
+      "size": "554762145",
+      "datetime": 1563610624,
+      "id": "8c213ac20cd35f038d8d44ed44063c2b2a4b62f35e43e5233afebb06b67b0ab4",
+      "url": "https://sourceforge.net/projects/havoc-os/files/nx531j/Havoc-OS-v2.7-20190720-nx531j-Official.zip/download"
     }
   ]
 }
