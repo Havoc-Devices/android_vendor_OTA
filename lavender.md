@@ -1,4 +1,4 @@
-••••• 02-07-2019 •••••
+••••• 03-07-2019 •••••
 ROM Changelog:
 • Merged July Security Patches
 • Improved Gaming mode
