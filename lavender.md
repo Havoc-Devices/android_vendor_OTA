@@ -1,3 +1,48 @@
+••••• 24-07-2019 •••••
+ROM Changelog:
+• Added Gaming mode QS tile
+• Improved Gaming mode
+• Improved OP gestures feedback duration
+• Improved Aggressive battery
+• Improved LiveDisplay
+• Improved Pocket lock
+• Fixed crash with some music players
+• Performance improvements
+• Other fixes and improvement
+
+Device Changelog:
+• Rebased to AmulyaX trees
+• Improved rounded corners
+• Included MIUI 10 vibration pattern
+• HAL3 Switcher now translated in RU, ES
+• Fixed status bar height
+• Fixed FM Radio
+• Added thermal engine service on charging
+• Show internal storage in DocumentsUI by default
+• FM Blobs updated from LA.UM.7.2.r1-06900-sdm660.0
+• Improved Dirac
+• Updated GPS confs from Jason
+• Fixed bug in dual SIM device where preferred data selection didn't stick after reboot
+• Disabled unused locations services for GPS
+• Updated HAL buffering configuration
+• Removed HWUI deprecated properties
+• Improved Wi-Fi speed by 2.4GHz channel bonding
+• Media volume now have 25 steps
+• Disabled RX wakelock in Wi-Fi
+• Disabled VSync for CPU rendered apps
+• Fixed random Wi-Fi drops
+• Pre-opt SystemUI
+• Disabled bluetooth at first boot
+• Installer now check baseband and not trustzone
+• Disabled Interaction Boost
+• Compiled libhwui in perf mode
+• Increased sound a little
+• Fixed audio in apps like Footej, Instagram or Whatsapp
+• Adaptive Brightness enabled by default
+• Totally fixed Off-Charging
+• Improved performance and battery backup
+• Included Team_Lavender Stock Kernel
+
 ••••• 03-07-2019 •••••
 ROM Changelog:
 • Merged July Security Patches
