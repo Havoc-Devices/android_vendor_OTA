@@ -1,4 +1,17 @@
 ====================
+     25-07-2019
+====================
+
+   * Synced with upstream Havoc source
+   * Zeus Kernel update
+   * Removed CNE from the build
+   * Removed test package from camera (thx zeelog)
+   * Swap set to be 896 MB
+   * Disabled RX Wakelock (thx luk1337)
+   * Max TCP buffer limit increas (thx Astridxx)
+   * Removed unnecessary GPS packages (thx davidtrpcevski)
+
+====================
      16-07-2019
 ====================
 
