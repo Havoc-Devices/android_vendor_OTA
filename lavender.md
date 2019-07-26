@@ -1,3 +1,23 @@
+
+••••• 26-07-2019 •••••
+ROM Changelog:
+• Added Gesture Anywhere
+• Added NFC Sounds
+• Added translations for Text Clock
+• Changed Text Clock color to Wallpaper based
+• Improved Battery Estimates
+• Improved Pocket Lock
+• Improved App info
+• Improved Sound settings
+• Fixed PiP for Multi-user
+• Removed QS tile overlays from app list
+• Updated Lawnchair to alpha-2338
+• Other fixes and improvements
+
+Device Changelog:
+• Disabled 2 UX Optimizations that causes a slowdown of the system
+• Included a missing blob for power-off alarm feature
+
 ••••• 24-07-2019 •••••
 ROM Changelog:
 • Added Gaming mode QS tile
