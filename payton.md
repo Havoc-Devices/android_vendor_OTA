@@ -1,4 +1,12 @@
 ===HAVOC-OS===
+==[02/07/19]==
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
 ==[15/07/19]==
 • Added Gaming mode QS tile
 • Improved Gaming mode
@@ -9,29 +17,15 @@
 • Fixed crash with some music players
 • Performance improvements
 • Other fixes and improvements
-==[25/07/19]==
-• Added Gesture Anywhere
-• Added NFC Sounds
-• Added translations for Text Clock
-• Changed Text Clock color to Wallpaper based
-• Improved Battery Estimates
-• Improved Pocket Lock
-• Improved App info
-• Improved Sound settings
-• Fixed PiP for Multi-user
-• Removed QS tile overlays from app list
-• Updated Lawnchair to alpha-2338
-• Other fixes and improvements
 ===PAYTON===
-==[26/07/19]==
+==[24/07/19]==
 Device Changelog:-
-• Replace entire Radio Stack & related with Xiaomi-sdm660 blobs
-• update WCNSS
-• Remove Verity on System & Vendor
-• Remove Forced Encryption for Userdata (now a user's choice)
-• Enable Adoptable Storage (Only works with non-encrypted userdata)
-• Optimize SystemUI to avoid janks
-• exclude SERIF_FONTS
+• Define Google play service package for FRP
+• Disable alt ambient display
+• Build vr.sdm660 hal
+• Import CarrierConfig vendor overlay
+• List additional native libraries to expose to apps
+• Update GPS from CAF TAG 'LA.UM.7.2.r1-07200-sdm660.0'
+• Downgrade GNSS to v1.0
 Kernel Changelog:-
-• Remove Verity Enforcement
-
+• Upstream Kernel --> [4.4.186]
