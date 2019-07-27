@@ -1,9 +1,12 @@
-• Added Gaming mode QS tile
-• Improved Gaming mode
-• Improved OP gestures feedback duration
-• Improved Aggressive battery
-• Improved LiveDisplay
-• Improved Pocket lock
-• Fixed crash with some music players
-• Performance improvements
+• Added Gesture Anywhere
+• Added NFC Sounds
+• Added translations for Text Clock
+• Changed Text Clock color to Wallpaper based
+• Improved Battery Estimates
+• Improved Pocket Lock
+• Improved App info
+• Improved Sound settings
+• Fixed PiP for Multi-user
+• Removed QS tile overlays from app list
+• Updated Lawnchair to alpha-2338
 • Other fixes and improvements
