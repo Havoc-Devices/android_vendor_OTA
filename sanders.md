@@ -1,22 +1,20 @@
-• Added Gaming mode QS tile
-• Improved Gaming mode
-• Improved OP gestures feedback duration
-• Improved Aggressive battery
-• Improved LiveDisplay
-• Improved Pocket lock
-• Fixed crash with some music players
-• Performance improvements
-• Stable volte icon and sim disable option fixed
-• Fix statusbar padding
-• Equaliser fixed
-• Enable QPower and Deep sleep at the same time
+• Added Gesture Anywhere
+• Added NFC Sounds
+• Added translations for Text Clock
+• Changed Text Clock color to Wallpaper based
+• Improved Battery Estimates
+• Improved Pocket Lock
+• Improved App info
+• Improved Sound settings
+• Fixed PiP for Multi-user
+• Removed QS tile overlays from app list
+• Updated Lawnchair to alpha-2338
+• Update camera blobs from stock OPSS28.65-36-11-4
 • GPS fixed
-• New MAYHEM™-Parallax kernel 
-• spectrum profile updated
-• Proper mtp name added
-• Pull sensor service from stock OPSS28.65-36-6 
-• Pull focaltech binaries from stock OPSS28.65-36-6 
-• vulkan: Import vulkan.msm8953 from OPSS28.65-36-9
-• Kernel upstream to LA.UM.7.6.r1-05500-89xx.0 caf tag
-• Wifi driver updated to LA.UM.7.6.r1-05500-89xx.0 caf tag
+• Update gps.conf from CAF tag LA.UM.7.6.r1-05300-89xx.0 and modified
+• Updated audio configs from stock OPS28.65-36-11
+• Statusbar & lockscreen padding changes
+• Update tcmclient.jar from LA.UM.7.6.r1-03700-89xx.0
 • Other fixes and improvements
+• Those who are facing no network-bar issue, flash qti-telephony-common-fix from xda post.
+(Fix not required for Indian and Brazilian user,only for some European user)
