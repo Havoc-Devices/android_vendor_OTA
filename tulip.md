@@ -1,7 +1,13 @@
-• Merged July Security Patches
-• Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
+• Added Gesture Anywhere
+• Added NFC Sounds
+• Added translations for Text Clock
+• Changed Text Clock color to Wallpaper based
+• Improved Battery Estimates
+• Improved Pocket Lock
+• Improved App info
+• Improved Sound settings
+• Fixed PiP for Multi-user
+• Removed QS tile overlays from app list
+• Updated Lawnchair to alpha-2338
 • Other fixes and improvements
+
