@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190725-oneplus3-Official.zip",
+      "filename": "Havoc-OS-v2.7-20190801-oneplus3-Official.zip",
       "version": "v2.7",
       "romtype": "Official",
-      "size": "581006060",
-      "datetime": 1564057221,
-      "id": "4b2c3a254b292a8df5a08d9685ab4249396407aea144b271047c6dbb4c997bd1",
-      "url": "https://sourceforge.net/projects/havoc-os/files/oneplus3/Havoc-OS-v2.7-20190725-oneplus3-Official.zip/download"
+      "size": "677367842",
+      "datetime": 1564674685,
+      "id": "30caafff78500008763f7b1a41decb3e5f4d2674791220649eb4854b7731010e",
+      "url": "https://sourceforge.net/projects/havoc-os/files/oneplus3/Havoc-OS-v2.7-20190801-oneplus3-Official.zip/download"
     }
   ]
 }
