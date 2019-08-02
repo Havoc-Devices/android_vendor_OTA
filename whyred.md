@@ -1,11 +1,22 @@
-• Merged July Security Patches
+• Added Gesture Anywhere
+• Added NFC Sounds
+• Added translations for Text Clock
+• Changed Text Clock color to Wallpaper based
+• Improved Battery Estimates
+• Improved Pocket Lock
+• Improved App info
+• Improved Sound settings
+• Fixed PiP for Multi-user
+• Removed QS tile overlays from app list
+• Updated Lawnchair to alpha-2338
+• Added Gaming mode QS tile
 • Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
+• Improved OP gestures feedback duration
+• Improved Aggressive battery
+• Improved LiveDisplay
+• Fixed crash with some music players
+• Performance improvements
 • Other fixes and improvements
-• Add dummy perf profile
-• Update thermals config
-• Kernel compiled with clang 9.0.4
-• Upstreamed Kernel with tag 4.4.184 
+• Added overlay to set white color unconditionally
+• Allow 120fps video recording
+• Illusion Kernel prebuilt 
