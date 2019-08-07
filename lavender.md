@@ -1,3 +1,28 @@
+Full Changelog:
+
+••••• 06-08-2019 •••••
+Device Changelog:
+• Added Polish Translation to HAL3 Switcher
+• Fixed a sepolicy denial camera related
+• Set gWlanMccToSccSwitchMode to enforce SCC
+• Enable NAN data path support 
+• A lots of Wi-FI improvements
+• Remove crashcheck and resize flag from fstab
+• Clean up non-existed props
+• Remove config_tether_upstream_types overlay
+• Add support for 2 digit normal dialing numbers
+• Enable config_enable_video_crbt for more mnc/mcc
+• Fixed Google Assistant and enabled by default
+• Fixed ADB enabled on boot even if disabled
+• Add IIFAAService for Alipay fingerprint payment
+• Fixed IFAA crash
+• Increase number of max visible notifications icons to 5
+• Improved Wi-Fi Hotspot
+• Overwrite Bluetooth operating voltage to 3.7V
+• Update GPS HAL from LA.UM.7.2.r1-07400-sdm660.0
+• Enabled support to Pocket Bridge
+• Reference volume index for music stream to limit headphone volume changed to 8
+• Improved SSR restart_level for don't lost time after reboot
 
 ••••• 26-07-2019 •••••
 ROM Changelog:
