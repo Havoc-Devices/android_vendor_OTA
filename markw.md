@@ -1,4 +1,15 @@
 ====================
+     06-08-2019
+====================
+
+   * Reserving 128 MB for critical components (thx jsharkey)
+   * Various QCamera improvements
+   * Some WiFi improvements
+   * FP sensor improvements
+   * General code cleanup
+   * Havoc OS shipped with 01.08 security patch
+
+====================
      25-07-2019
 ====================
 
