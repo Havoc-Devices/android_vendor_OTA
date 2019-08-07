@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "filename": "Havoc-OS-v2.7-20190806-taimen-Official.zip",
-      "version": "v2.7",
-      "romtype": "Official",
-      "size": "922376299",
-      "datetime": 1565118018,
-      "id": "2abacbb8ab638451b104d92f80ea48bd83bae8d93aa0babb6bd924540708cd92",
-      "url": "https://sourceforge.net/projects/havoc-os/files/taimen/Havoc-OS-v2.7-20190806-taimen-Official.zip/download"
-    }
-  ]
-}
+{\n  "response": [\n    {\n      "filename": "Havoc-OS-v2.8-20190807-taimen-Official.zip",\n      "version": "v2.8",\n      "romtype": "Official",\n      "size": "922109118",\n      "datetime": 1565202858,\n      "id": "8abb0e08738441f18fbb70a5ab88a412ba3c1f5f683394487f4b2857ffd80eb5",\n      "url": "https://sourceforge.net/projects/havoc-os/files/taimen/Havoc-OS-v2.8-20190807-taimen-Official.zip/download"\n    }\n  ]\n}
