@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190706-hltekor-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190807-hltekor-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "399288297",
-      "datetime": 1562453671,
-      "id": "e9308e7477f20a4964455788068683e49609ae0bd880584581e6127e1b95becf",
-      "url": "https://sourceforge.net/projects/havoc-os/files/hltekor/Havoc-OS-v2.7-20190706-hltekor-Official.zip/download"
+      "size": "400733021",
+      "datetime": 1565222166,
+      "id": "9e684cd457fc78700ab1c40ac2963fae0481e44956105d2e465bfaadefbaa9f5",
+      "url": "https://sourceforge.net/projects/havoc-os/files/hltekor/Havoc-OS-v2.8-20190807-hltekor-Official.zip/download"
     }
   ]
 }
