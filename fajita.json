@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190728-fajita-Official.zip",
-      "version": "v2.7",
-      "romtype": "Official",
-      "size": "544479775",
-      "datetime": 1564328243,
-      "id": "271e2e6238e9fca8bb738810c5860fbe9ad43eda8da40ef7c432357b15a15d16",
-      "url": "https://sourceforge.net/projects/havoc-os/files/fajita/Havoc-OS-v2.7-20190728-fajita-Official.zip/download"
+      "filename": "Havoc-OS-v2.8-20190807-fajita-Official.zip",
+      "version": "v2.8",
+      "romtype": "Timmah",
+      "size": "540994576",
+      "datetime": 1565205972,
+      "id": "d6b83c10159856a056f181a781639ec22bd65dc2151950373010d0c7ebf4a209",
+      "url": "https://sourceforge.net/projects/havoc-os/files/fajita/Havoc-OS-v2.8-20190807-fajita-Official.zip/download"
     }
   ]
 }
