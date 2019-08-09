@@ -1,15 +1,11 @@
-• Added Gesture Anywhere
-• Added NFC Sounds
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
 • Added translations for Text Clock
-• Changed Text Clock color to Wallpaper based
-• Improved Battery Estimates
-• Improved Pocket Lock
-• Improved App info
-• Improved Sound settings
-• Fixed PiP for Multi-user
-• Removed QS tile overlays from app list
-• Updated Lawnchair to alpha-2338
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
 • Other fixes and improvements
-• Updated Radio Properties
-• Enabled default support for aptX Adaptive
-• Fixed Data Sim Reset on reboot
+• Enable Qualcomm's NLP combo feature
+• Updated properties for Network Location Provider
+• Updated QMI blobs from LA.UM.7.6.2.r1-03800-89xx.0
+• Updated GPS hal to LA.UM.7.6.2.r1-03800-89xx.0
