@@ -1,6 +1,15 @@
 Full Changelog:
 
-••••• 06-08-2019 •••••
+••••• 08-08-2019 •••••
+ROM Changelog:
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
+• Added translations for Text Clock
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
+• Other fixes and improvements
+
 Device Changelog:
 • Added Polish Translation to HAL3 Switcher
 • Fixed a sepolicy denial camera related
@@ -22,7 +31,18 @@ Device Changelog:
 • Update GPS HAL from LA.UM.7.2.r1-07400-sdm660.0
 • Enabled support to Pocket Bridge
 • Reference volume index for music stream to limit headphone volume changed to 8
-• Improved SSR restart_level for don't lost time after reboot
+• Improved SSR restart_level for not lost time after reboot
+• Remove hw_acc effect
+• Enable fluence for audio/voice rec
+• Run tftp_server with system group
+• Run sensors.qcom with system group
+• Build libnl and libwfdaac to fix Wi-Fi display
+• Add back correctly created /data/misc/camera folder to fix MIUI camera
+• Move control sockets of wpa_supplicant to /data/vendor
+• Don't modify permissions of /dev/hw_random
+• Set thermal data path
+• Drop custom display flags
+• Powered by Evira Pure 1.6
 
 ••••• 26-07-2019 •••••
 ROM Changelog:
