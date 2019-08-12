@@ -1,4 +1,13 @@
 ====================
+     12-08-2019
+====================
+
+   * Synced with upstream Havoc source
+   * Fixed WiFi issues found in previous build
+   * Power consumption improvement
+   * Update of FP HAL
+
+====================
      08-08-2019
 ====================
 
