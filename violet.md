@@ -1,18 +1,23 @@
-• Added Gesture Anywhere
-• Added NFC Sounds
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
 • Added translations for Text Clock
-• Changed Text Clock color to Wallpaper based
-• Improved Battery Estimates
-• Improved Pocket Lock
-• Improved App info
-• Improved Sound settings
-• Fixed PiP for Multi-user
-• Removed QS tile overlays from app list
-• Updated Lawnchair to alpha-2338
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
 • Other fixes and improvements
-• Update IFAA for pie blobs 
-• Build libaudioroute
-• Update GPS HAL to LA.UM.7.9.r1-07800-sm6150.0
-• Update build fingerprint to V10.3.12.0.PFHINXM
-• Added Snap Camera
-• Enable v2 for Snap 
+• Add dummy perf profile
+• Force fw from MIUI 9.7.18 and up
+• Include missing OMX blobs 
+• Enable audio features for sound FX libraries
+• Cleanup usb shell script
+• Use oneplus 7 vibration pattern
+• Update DRM stack from davinci 
+• Update Graphics stack from ZenFone 6
+• Enable full dexpreopt
+• Import missing learning module blobs
+• Update vendor CarrierConfig from MIUI 9.7.11 
+• Update vendor blobs from davinci
+• Add QC location support
+• Import SVI configuration
+• Enable Optimize Refresh feature 
+• Enable WIFI Aware
