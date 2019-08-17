@@ -1,9 +1,9 @@
-Havoc-OS v2.7 Changelog 02-07-19:
+Havoc-OS v2.8 Changelog 07-08-19:
 
-• Merged July Security Patches
-• Improved Gaming mode
-• Improved Statusbar icon padding
-• Improved Smart charging
-• Removed Quick unlock
-• Updated Lawnchair to alpha-2238
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
+• Added translations for Text Clock
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
 • Other fixes and improvements

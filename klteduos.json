@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190706-klteduos-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190817-klteduos-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "396159107",
-      "datetime": 1562454828,
-      "id": "2744c630d52cab72dbdc1d1d6f46bee218c76f1a114b1bbba3a855982f0fc2dd",
-      "url": "https://sourceforge.net/projects/havoc-os/files/klteduos/Havoc-OS-v2.7-20190706-klteduos-Official.zip/download"
+      "size": "398348689",
+      "datetime": 1566016043,
+      "id": "94710b309ef6434e34ed3dc0393eb99b74d4dc8ca92e2b6f725d594098b68bc6",
+      "url": "https://sourceforge.net/projects/havoc-os/files/klteduos/Havoc-OS-v2.8-20190817-klteduos-Official.zip/download"
     }
   ]
 }
