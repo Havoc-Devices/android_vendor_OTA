@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190722-jasmine_sprout-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190819-jasmine_sprout-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "728962782",
-      "datetime": 1563789623,
-      "id": "1cf3b7bfe19cf5a8355dac12f2525653f54a0f3ced049e007f4d12f04fecebc7",
-      "url": "https://sourceforge.net/projects/havoc-os/files/jasmine_sprout/Havoc-OS-v2.7-20190722-jasmine_sprout-Official.zip/download"
+      "size": "728761825",
+      "datetime": 1566214988,
+      "id": "a9c78eb2414a54be7710d104ab444942712a5a828426a7cef49aec7209d85651",
+      "url": "https://sourceforge.net/projects/havoc-os/files/jasmine_sprout/Havoc-OS-v2.8-20190819-jasmine_sprout-Official.zip/download"
     }
   ]
 }
