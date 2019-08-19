@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190722-clover-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190819-clover-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "673024258",
-      "datetime": 1563785044,
-      "id": "36e6f71767fc26864a8f1e69103eaa577ef48caebf9430b54cfdbfd96ca7022e",
-      "url": "https://sourceforge.net/projects/havoc-os/files/clover/Havoc-OS-v2.7-20190722-clover-Official.zip/download"
+      "size": "674181203",
+      "datetime": 1566213566,
+      "id": "76b4cb4f02927ffc108fd8c92aa4c8a776475ad4deb87abb92db0de516baf302",
+      "url": "https://sourceforge.net/projects/havoc-os/files/clover/Havoc-OS-v2.8-20190819-clover-Official.zip/download"
     }
   ]
 }
