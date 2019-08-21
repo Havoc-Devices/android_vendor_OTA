@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190705-dumpling-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190819-dumpling-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "851351951",
-      "datetime": 1562331374,
-      "id": "9aa4bafa05df4e8ce3fe0b769fad886cd79455dc87471dec994b9204e3483618",
-      "url": "https://sourceforge.net/projects/havoc-os/files/dumpling/Havoc-OS-v2.7-20190705-dumpling-Official.zip/download"
+      "size": "850241158",
+      "datetime": 1566221975,
+      "id": "fe55764dd25ddf587c985876c8a43856c28470bd86d2490fdf02775fc3bf9d16",
+      "url": "https://sourceforge.net/projects/havoc-os/files/dumpling/Havoc-OS-v2.8-20190819-dumpling-Official.zip/download"
     }
   ]
 }
