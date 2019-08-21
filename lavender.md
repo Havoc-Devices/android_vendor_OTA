@@ -30,6 +30,35 @@ Device Changelog:
 • Powerded by latest Genom-HMP-LA.UM.7.2.r1-07400
 
 ••••• 08-08-2019 •••••
+Device Changelog:
+• Removed the missing NFC confs of whyred
+• Fixed HIDL Camera after decryption
+• Sensor are now working fine
+• Partizion size is now correct
+• Set default hotpost name
+• Powersave governor in charger mode, to have a better charging time and for not to exceed the temperatures
+• Reduced GPS debug level
+• Google assistant is now fixed
+• Fixed videocalls lag and removed switch, now you can do it with both HAL3 and HAL1 without lags
+• Fixed SlowMotion with Google Camera
+• HAL3 Enabled by default
+• Fixed signal strength visual bug
+• Improved battery
+• Fixed time_daemon, now you can reboot without lost time
+• Fixed Screen Off Torch
+• Updated blobs from MIUI 9.8.1
+• You can format /cache partition to F2FS filesystem
+• Really Improved UI, now it's really smoother
+• Removed some obsolete properties
+• The installer mention which image is being flashed and only when it actually is
+• Enabled Smart Clock
+• Now you can perform an OEM Unlock/Relock from developer settings
+• Updated CarrierConfing from MIUI 9.8.1
+• Hide unsupported color effects entry of Snap Camera
+• Fixed Widevine L1
+• Powerded by latest Genom-HMP-LA.UM.7.2.r1-07400
+
+••••• 08-08-2019 •••••
 ROM Changelog:
 • Merged August Security Patch
 • Added ability to restrict app vpn usage
