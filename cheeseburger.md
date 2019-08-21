@@ -1,8 +1,10 @@
-• Merged July Security Patches 
-• Improved Gaming mode 
-• Improved Statusbar icon padding 
-• Improved Smart charging 
-• Removed Quick unlock 
-• Updated Lawnchair to alpha-2238 
-• WiFi ac detection
-• added Live display back again with some fixes.
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
+• Added translations for Text Clock
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
+• Other fixes and improvements
+• updated to 9.0.8
+• Kernel update and bug fixes
+• Device level fixes and enhancements
