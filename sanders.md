@@ -1,20 +1,18 @@
-• Added Gesture Anywhere
-• Added NFC Sounds
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
 • Added translations for Text Clock
-• Changed Text Clock color to Wallpaper based
-• Improved Battery Estimates
-• Improved Pocket Lock
-• Improved App info
-• Improved Sound settings
-• Fixed PiP for Multi-user
-• Removed QS tile overlays from app list
-• Updated Lawnchair to alpha-2338
-• Update camera blobs from stock OPSS28.65-36-11-4
-• GPS fixed
-• Update gps.conf from CAF tag LA.UM.7.6.r1-05300-89xx.0 and modified
-• Updated audio configs from stock OPS28.65-36-11
-• Statusbar & lockscreen padding changes
-• Update tcmclient.jar from LA.UM.7.6.r1-03700-89xx.0
-• Other fixes and improvements
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
+• New kernel mayhem-parallax-2.0
+• Remove Kernel Profiles toggle from motoaction & spectrum support remove
+• Added liblight from griffin
+• GPS and offline map download fixed
+• ThermalControl app added from source
+• Update esepowermanager, Bluetooth, gnss & FM blobs from stock OPSS28.65-36-11
+• Updted ims for removing HD notification
+• Lot of previous bug fixed
+• Very good gaming performance
+• And some Optimisations & fix
 • Those who are facing no network-bar issue, flash qti-telephony-common-fix from xda post.
 (Fix not required for Indian and Brazilian user,only for some European user)
