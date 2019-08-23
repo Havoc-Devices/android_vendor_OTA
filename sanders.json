@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190730-sanders-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190822-sanders-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "577235421",
-      "datetime": 1564512248,
-      "id": "ba9c48e704a9bb6940a1d747d9f8e64a63174b25c2728aa9f919ab6109ff1aa0",
-      "url": "https://sourceforge.net/projects/havoc-os/files/sanders/Havoc-OS-v2.7-20190730-sanders-Official.zip/download"
+      "size": "572364262",
+      "datetime": 1566495888,
+      "id": "aa802478542f2303b99adda455ae85b65faea129eb298042c39aacfa7d070ca8",
+      "url": "https://sourceforge.net/projects/havoc-os/files/sanders/Havoc-OS-v2.8-20190822-sanders-Official.zip/download"
     }
   ]
 }
