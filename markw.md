@@ -1,4 +1,18 @@
 ====================
+    25-08-2019
+====================
+
+   * Synced with upstream Havoc source
+   * Optimise bluetooth
+   * Statusbar adjustments
+   * Display supports Doze
+   * Re-worked USB Fastcharge
+   * Wifi tunings
+   * Camera is not pinned
+   * Switching to Franco kernel (thx for ShihabZzz)
+   * Various under-the-hood improvements
+
+====================
      12-08-2019
 ====================
 
