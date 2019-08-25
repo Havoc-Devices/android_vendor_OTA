@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190819-raphael-Official.zip",
+      "filename": "Havoc-OS-v2.8-20190825-raphael-Official.zip",
       "version": "v2.8",
       "romtype": "Official",
-      "size": "542483920",
-      "datetime": 1566207313,
-      "id": "347663d394cd0533c5784aaa62969318561895ef1efaac8a65182e837dcba802",
-      "url": "https://sourceforge.net/projects/havoc-os/files/raphael/Havoc-OS-v2.8-20190819-raphael-Official.zip/download"
+      "size": "542484416",
+      "datetime": 1566699085,
+      "id": "752c449e5b6c798228c4252a0ac7060d0c7ba058e0a40ff7484b0969ec3622b7",
+      "url": "https://sourceforge.net/projects/havoc-os/files/raphael/Havoc-OS-v2.8-20190825-raphael-Official.zip/download"
     }
   ]
 }

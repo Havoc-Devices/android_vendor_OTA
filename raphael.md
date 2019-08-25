@@ -1,1 +1,3 @@
-Initial build
+ - Improved FOD
+ - Fixed SOD (maybe)
+ - Fixed a bug with the popup camera where it would sometimes try to close/open when it was already closed/opened
