@@ -1,9 +1,14 @@
-• Signal Strength improvement
-• Fixed Microphone bug
-• Added Back Fingerprint Swipe Gestures
-• Fixed SlowMo in Miui Camera
-• Removed not working FM Radio
-• Improved Deep Sleep
-• Use Pixel 2 vibration pattern
-• Fixed Headphone Buttons
+• Added Extended screenshot function
+• Added new implementation for In-display fingerprint sensors
+• Added hotspot setting to allow VPN upstreams
+• Added support for internal audio recording
+• Added mapping files for DualShock3 and DualShock4
+• Added keylayout for Xbox One USB controller
+• Improved Battery estimates toggle
+• Improved LiveDisplay
+• Fixed constant FC on certain devices
+• Fixed NotificationColorUtil logspam
+• Fixed wrong data usage in QS tile
+• Fixed wrong locale causing reboot in recovery
+• Kernel Updated to 4.4.190
 • Other fixes and improvements
