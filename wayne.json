@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190822-wayne-Official.zip",
+      "filename": "Havoc-OS-v2.8-20190826-wayne-Official.zip",
       "version": "v2.8",
       "romtype": "Official",
-      "size": "737045874",
-      "datetime": 1566469145,
-      "id": "9a3ec3261b4d81ec445cdf61465e76032cb4dd6cb780a38fac3f9c2a7e019fc4",
-      "url": "https://sourceforge.net/projects/havoc-os/files/wayne/Havoc-OS-v2.8-20190822-wayne-Official.zip/download"
+      "size": "733456087",
+      "datetime": 1566803354,
+      "id": "54870a64bf400b5474379fc9398f1bd59acf264c8799f0154afd9184d090f792",
+      "url": "https://sourceforge.net/projects/havoc-os/files/wayne/Havoc-OS-v2.8-20190826-wayne-Official.zip/download"
     }
   ]
 }
