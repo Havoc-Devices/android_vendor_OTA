@@ -1,15 +1,14 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190808-tulip-Official.zip",
+      "filename": "Havoc-OS-v2.8-20190826-tulip-Official.zip",
       "version": "v2.8",
       "romtype": "Official",
-      "size": "667548415",
-      "datetime": 1565238018,
-      "id": "174e9f716a7955b5539248079523159241d6f4d9c953e0321c72cc5fb513e943",
-      "url": "https://sourceforge.net/projects/havoc-os/files/tulip/Havoc-OS-v2.8-20190808-tulip-Official.zip/download"
+      "size": "668542816",
+      "datetime": 1566805263,
+      "id": "915b41eaeb05bf4d2669635e3cb01d8ad229d9970b7b47888a3b691e158599c2",
+      "url": "https://sourceforge.net/projects/havoc-os/files/tulip/Havoc-OS-v2.8-20190826-tulip-Official.zip/download"
     }
   ]
 }
-
 
