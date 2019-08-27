@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190824-crosshatch-Official.zip",
+      "filename": "Havoc-OS-v2.8-20190826-crosshatch-Official.zip",
       "version": "v2.8",
       "romtype": "Official",
-      "size": "1025791943",
-      "datetime": 1566625987,
-      "id": "097a63ca18f09d73abe1100247f0513416ea9df45e44a060797026f5f65d4272",
-      "url": "https://sourceforge.net/projects/havoc-os/files/crosshatch/Havoc-OS-v2.8-20190824-crosshatch-Official.zip/download"
+      "size": "1026667287",
+      "datetime": 1566857458,
+      "id": "aef7efbf12e99251a0ef53a68746e389630b8afa4bb0dab920bf1e25aad3e644",
+      "url": "https://sourceforge.net/projects/havoc-os/files/crosshatch/Havoc-OS-v2.8-20190826-crosshatch-Official.zip/download"
     }
   ]
 }
