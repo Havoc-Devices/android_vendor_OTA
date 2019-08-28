@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190722-dipper-Official.zip",
-      "version": "v2.7",
+      "filename": "Havoc-OS-v2.8-20190828-dipper-Official.zip",
+      "version": "v2.8",
       "romtype": "Official",
-      "size": "943538625",
-      "datetime": 1563781609,
-      "id": "adb71ff6c72356cc5106e1255021da6c4f904416e6fff3c99385d03d0e336b99",
-      "url": "https://sourceforge.net/projects/havoc-os/files/dipper/Havoc-OS-v2.7-20190722-dipper-Official.zip/download"
+      "size": "941053834",
+      "datetime": 1567006939,
+      "id": "c6319398bdf94b2f4b8ebe4b08141e61f69c2a2a367d77fda963d9a2df3fd415",
+      "url": "https://sourceforge.net/projects/havoc-os/files/dipper/Havoc-OS-v2.8-20190828-dipper-Official.zip/download"
     }
   ]
 }
