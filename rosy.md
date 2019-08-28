@@ -1,13 +1,19 @@
-• Merged August Security Patch
-• Added ability to restrict app vpn usage
-• Added translations for Text Clock
-• Enabled OP gestures on keyguard
-• Improved Dynamic gaming mode
-• Updated prebuilt apps
+• Added Extended screenshot function
+• Added new implementation for In-display fingerprint sensors
+• Added hotspot setting to allow VPN upstreams
+• Added support for internal audio recording
+• Added mapping files for DualShock3 and DualShock4
+• Added keylayout for Xbox One USB controller
+• Improved Battery estimates toggle
+• Improved LiveDisplay
+• Fixed constant FC on certain devices
+• Fixed NotificationColorUtil logspam
+• Fixed wrong data usage in QS tile
+• Fixed wrong locale causing reboot in recovery
 • Other fixes and improvements
-• Update blobs from Tissot
-• drop unneeded GPS blobs and GPS related changes
-• Increase maximum TCP buffer limits
-• Update manifest entries
-• CarrierConfig: Update IMS related stuff 
-• Update firmware to miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1
+• Wifi: Update wifi stuff
+• Update init.qcom.sh script
+• Update post boot shell script
+• Overlays: minor clean up
+• Update gfx (postprocessing) from AquariusX2
+• Set min gpu freq to 320mhz
