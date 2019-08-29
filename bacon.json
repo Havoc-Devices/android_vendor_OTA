@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190808-bacon-Official.zip",
+      "filename": "Havoc-OS-v2.8-20190828-bacon-Official.zip",
       "version": "v2.8",
       "romtype": "Official",
-      "size": "369558170",
-      "datetime": 1565252715,
-      "id": "20c57cc63e4688b5c178e41a6564b6afa4560d5401ef1c884b1b344fc3588a6f",
-      "url": "https://sourceforge.net/projects/havoc-os/files/bacon/Havoc-OS-v2.8-20190808-bacon-Official.zip/download"
+      "size": "371003837",
+      "datetime": 1567015460,
+      "id": "1ba64d55e59930ee704f19ab335dddc25d9fad79c17d6a0672522c670078e806",
+      "url": "https://sourceforge.net/projects/havoc-os/files/bacon/Havoc-OS-v2.8-20190828-bacon-Official.zip/download"
     }
   ]
 }
