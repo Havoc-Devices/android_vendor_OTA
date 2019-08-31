@@ -1,6 +1,6 @@
 Full Changelog:
 
-••••• 20-08-2019 •••••
+••••• 31-08-2019 •••••
 Device Changelog:
 • LED is now always white, except when battery fully charged
 • Fixed animation lags, and improved performance
