@@ -13,6 +13,21 @@ Device Changelog:
 • Reverted blobs from MIUI v9.8.1, that broke Wi-Fi and RIL for some users
 • Updated to latest Genom Kernel
 
+ROM Changelog:
+• Added Extended screenshot function
+• Added new implementation for In-display fingerprint sensors
+• Added hotspot setting to allow VPN upstreams
+• Added support for internal audio recording
+• Added mapping files for DualShock3 and DualShock4
+• Added keylayout for Xbox One USB controller
+• Improved Battery estimates toggle
+• Improved LiveDisplay
+• Fixed constant FC on certain devices
+• Fixed NotificationColorUtil logspam
+• Fixed wrong data usage in QS tile
+• Fixed wrong locale causing reboot in recovery
+• Other fixes and improvements
+
 ••••• 20-08-2019 •••••
 Device Changelog:
 • Removed the missing NFC confs of whyred
