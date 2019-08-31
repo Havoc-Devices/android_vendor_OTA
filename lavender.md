@@ -2,6 +2,19 @@ Full Changelog:
 
 ••••• 20-08-2019 •••••
 Device Changelog:
+• LED is now always white, except when battery fully charged
+• Fixed animation lags, and improved performance
+• Fixed OGG playback (ex. Whatsapp Voice Notes)
+• Improved temperatures, updated thermal engine from MIUI v10.3.6.0
+• You can now use all types of Google Camera, fixed-up HAL3
+• Increased handset speaker volume and some mics
+• Improved touch screen support
+• Imported missing sensor configs from MIUI v10.3.6.0 and improved proximity experience
+• Reverted blobs from MIUI v9.8.1, that broke Wi-Fi and RIL for some users
+• Updated to latest Genom Kernel
+
+••••• 20-08-2019 •••••
+Device Changelog:
 • Removed the missing NFC confs of whyred
 • Fixed HIDL Camera after decryption
 • Sensor are now working fine
