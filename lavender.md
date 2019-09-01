@@ -1,5 +1,14 @@
 Full Changelog:
 
+••••• 02-09-2019 •••••
+Device Changelog:
+• You can now use firmware 10.3.9.0 or up without any problems
+• Fixed mlipay importing a missing blob
+• Updated build fingerprint to MIUI v10.3.10.0.PFGMIXM
+• Fully fixed bad microphone quality
+• Imported thermal blobs from Platina (Mi 8 lite) to optimize temperatures
+• Update QTI configs from latest CAF tag
+
 ••••• 31-08-2019 •••••
 Device Changelog:
 • LED is now always white, except when battery fully charged
