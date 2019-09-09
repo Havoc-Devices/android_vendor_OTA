@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190826-X00T-Official.zip",
-      "version": "v2.8",
+      "filename": "Havoc-OS-v2.9-20190909-X00T-Official.zip",
+      "version": "v2.9",
       "romtype": "Official",
-      "size": "624716531",
-      "datetime": 1566832622,
-      "id": "557ccde71b1c1d3f5452651320c846aaffda72d83aeba8dd929c5349c5e738b4",
-      "url": "https://sourceforge.net/projects/havoc-os/files/X00T/Havoc-OS-v2.8-20190826-X00T-Official.zip/download"
+      "size": "627712927",
+      "datetime": 1568048574,
+      "id": "d7ecb5cbe96865488a237fab72f61c2151d0dde6759866b5d0b0d50dfc769a3c",
+      "url": "https://sourceforge.net/projects/havoc-os/files/X00T/Havoc-OS-v2.9-20190909-X00T-Official.zip/download"
     }
   ]
 }
