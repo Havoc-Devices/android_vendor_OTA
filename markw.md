@@ -1,4 +1,12 @@
 ====================
+    10-09-2019
+====================
+
+  * Sync with Havoc OS upstream: https://t.me/Havoc_OS/1427
+  * Camera improvements
+  * Physical key binding fixed (thx for Yu Setiadi)
+
+====================
     30-08-2019
 ====================
 
