@@ -1,13 +1,12 @@
-• Added Extended screenshot function
-• Added hotspot setting to allow VPN upstreams
-• Added support for internal audio recording
-• Added mapping files for DualShock3 and DualShock4
-• Improved Battery estimates toggle
-• Improved LiveDisplay
-• Fixed constant FC on certain devices
-• Fixed NotificationColorUtil logspam
-• Fixed wrong data usage in QS tile
-• Fixed wrong locale causing reboot in recovery
-• Updated init.qcom.sh script & post boot shell script
-• Fixed random audio shutoff
-• Removed venus firmware and imported stock adreno firmware
+
+
+
+
+• Merged September security patch
+• Added New Recorder app with audio support
+• Added Lockscreen Date styles
+• Added OP gestures haptic feedback toggle
+• Added Circle battery style from PA
+• Added Default data SIM switcher in CellularTile
+• Added edit action on screenshot notification
+• Improved Media seekbar in notification
