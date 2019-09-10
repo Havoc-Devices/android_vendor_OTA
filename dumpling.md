@@ -1,10 +1,9 @@
-• Merged August Security Patch
-• Added ability to restrict app vpn usage
-• Added translations for Text Clock
-• Enabled OP gestures on keyguard
-• Improved Dynamic gaming mode
-• Updated prebuilt apps
+• Merged September security patch 
+• Added New Recorder app with audio support 
+• Added Lockscreen Date styles 
+• Added OP gestures haptic feedback toggle 
+• Added Circle battery style from PA 
+• Added Default data SIM switcher in CellularTile 
+• Added edit action on screenshot notification 
+• Improved Media seekbar in notification 
 • Other fixes and improvements
-• update to OP 9.0.8
-• Kernel update and bug fixes
-• Device level fixes and enhancements
