@@ -1,15 +1,10 @@
-* Import and set mi thermal engine
-* Increase call volume
-* Add Mi Sounds(Dirac)
-* Update audio Configs
-* Fix some selinux denials
-* Fix WiFi Display
-* Fix more Apps Denials (ty: rochadev)
-* Miui Offcharging animatios -
-* WiFi stability improvements
-* Clean useless files
-* Enable UX optimizations
-* Update and clean system props
-* KERNEL: Ancient-EAS-1.3
-* Compiled with clang 9.0.5
-* NOTE: FW 10.3.2 
+DEVICE:
+* Update GPS from Latest CAF-TAG
+* Improvements to smooth animations
+* Remove more obsolete system properties
+* Fix OGG Playback
+* Audio improvements 
+* Fix more denials ty: @rochadev
+* Kernel: ANCIENT KERNEL 1.6 11-09
+* Compiled with clang 9.0.6
+* Firmware: 10.3.2 Stable

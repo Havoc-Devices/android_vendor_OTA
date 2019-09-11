@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190811-platina-Official.zip",
-      "version": "v2.8",
+      "filename": "Havoc-OS-v2.9-20190911-platina-Official.zip",
+      "version": "v2.9",
       "romtype": "Official",
-      "size": "697382720",
-      "datetime": 1565388350,
-      "id": "3dcc6ea71a37953341cb9c9b9a32820fd442e53c0ca7e4ddf3553426bf119661",
-      "url": "https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v2.8-20190811-platina-Official.zip/download"
+      "size": "700272414",
+      "datetime": 1568168806,
+      "id": "ba9caa45dec788b0756b5870a6d8ff4071069515b1a4f25c0813b8fdce1eb510",
+      "url": "https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v2.9-20190911-platina-Official$
     }
   ]
 }
