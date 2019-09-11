@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190901-lavender-Official.zip",
-      "version": "v2.8",
+      "filename": "Havoc-OS-v2.9-20190911-lavender-Official.zip",
+      "version": "v2.9",
       "romtype": "Official",
-      "size": "768056518",
-      "datetime": 1567362828,
-      "id": "4107813af6e443184eb8b468ecbaffe331f125ca5534ba762892582199ec9616",
-      "url": "https://sourceforge.net/projects/havoc-os/files/lavender/Havoc-OS-v2.8-20190901-lavender-Official.zip/download"
+      "size": "789455540",
+      "datetime": 1568226046,
+      "id": "68e78a497b33c230852146b7eff783a2c1dfa9a9b33f31de6c1bf2c5e31b5e35",
+      "url": "https://sourceforge.net/projects/havoc-os/files/lavender/Havoc-OS-v2.9-20190911-lavender-Official.zip/download"
     }
   ]
 }

@@ -1,5 +1,18 @@
 Full Changelog:
 
+••••• 11-09-2019 •••••
+Device Changelog:
+• Fixed build fingerprint typo, now should be 10.3.10.0.PFGMIXM
+• Updated GPS HAL from latest CAF tag
+• When opening Documents app, you see /sdcard instead of Downloads by default
+• ROM is now fully dexpreopted
+• Added some missing sepolicy rules to fix some denial
+• Fully fixed Power Key to enable torch
+• Fixed bad microphone quality with camera
+• Boosted the speaker sound a little
+• Increased rounded corner to 16dp
+• Enabled input boost value for Power Key
+ 
 ••••• 02-09-2019 •••••
 Device Changelog:
 • You can now use firmware 10.3.9.0 or up without any problems
