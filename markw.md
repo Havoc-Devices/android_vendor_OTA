@@ -1,4 +1,12 @@
 ====================
+    13-09-2019
+====================
+
+  * Sync with Havoc OS upstream: Android Q Wifi and Signal icon
+  * Some GPS speed improvements
+  * New NTP servers through GPS
+
+====================
     10-09-2019
 ====================
 
