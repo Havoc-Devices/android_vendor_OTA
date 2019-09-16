@@ -1,4 +1,15 @@
 ====================
+    16-09-2019
+====================
+
+  * Bind restrticted apps to cores
+  * Double entries are removed from dev tree code
+  * Surface Flinger fine tune
+  * A lot of code cleanup
+  * Network related cleanup
+  * Under-the-hood improvements
+
+====================
     13-09-2019
 ====================
 
