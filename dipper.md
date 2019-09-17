@@ -1,87 +1,53 @@
 •••••••••••••••••••••••••••••••••••••
-• ROM Changelog: 28.08.2019
+• ROM Changelog: 17.09.2019
 •••••••••••••••••••••••••••••••••••••
 
 ••••••••••••• Added •••••••••••••
-• ability to restrict app vpn usage
-• translations for Text Clock
-• lockscreen Date styles
-• Powermenu background filter
-• SystemInfo Tile
-• Battery estimation positions
-• ability to choose between accent and wallpaper tint textcolor for "Its" on Lockscreen Q-Clock
-• ability to enable four row Q-Clock text (for now only for german language) 
-• support for XBox/sony USB controller
-• stable ANX Camera mods without stuff that is crashing
-• Extended screenshot function
-• hotspot setting to allow VPN upstreams
-• support for internal audio recording
-• ability to enable and disable Lockscreen and System wallpaper tint
-• back LiveDisplay Tile
-• to force enable QS System Info for non notch devices or Displaycutout users
-• ability to change clock size in qs header
-• ability to change clock font style in qs header
-• ability to change clock font color in qs header
-
-••••••••••••• Fixed •••••••••••••
-• to bright charging led
-• memory leaks
-• some NPEs
-• Screenrecord lags
-• Nightlife misbehaving
-• Displaycolor modes not sticking
-• GPS crashes after some TIME
-• Displaycutout modes
-• high temperature
-• bright camera on instagram and Whatsapp
-• SystemUI crashes
-• random blackscreens
-• usb aux audio
-• constant FC on certain devices
-• NotificationColorUtil logspam
-• wrong data usage in QS tile
-• wrong locale causing reboot in recovery
+• Added New Recorder app with audio support
+• Added OP gestures haptic feedback toggle
+• Added Circle battery style from PA
+• Added Default data SIM switcher in CellularTile
+• Added edit action on screenshot notification
+• Added Android Q Signal icons 
+• Added Android Q Wifi icons
+• Other fixes and improvements
 
 ••••••••••••• Improvemnt •••••••••••••
-• CPU behavior on charging
-• QS Weather
-• Dynamic gaming mode
-• notch and icon handling - it shows now 5 icons on left and right of notch
-• Improved LiveDisplay
-• QS System Info handling
+• Media seekbar in notification
+• Notch behaviour and allow more icons
+• Remove Pixalation from notch
+• Full Base Rebase
+• Full device tree rebase
+• Fix high temperature
+• stabilty 
+• Optimized and reduced notification space
 
 ••••••••••••• Misc •••••••••••••
-• Merged August Security Patch
-• Update Blobs to newest blobs
-• Enabled OP gestures on keyguard
-• Updated prebuilt apps
-• Full reset and rebase of device tree to los vendor implementation
-• Switch to OSS Display HAL 
-• Replace via browser with purebrowser
-• Lots of system and stability improvements
-• Updated Google Camera
-• Theme PackageInstaller on Glassy and Shady themes
+• Merged September security patch
+• and much more
 
 ••••••••••••• Kernel •••••••••••••
-• Merged CAF Tag 'LE.UM.2.3.2-07900-SDX24'
-• Merged CAF Tag 'LA.UM.7.3.r1-08200-sdm845.0'
+• Kernel Rebased
+• Linux 4.9.193
 • Merged Android 4.9 Common
-• Disabled Wireguard 
-• Fixed High temperature
-• Fixed deepsleep issues
-• Optimize CPU behavior
-• Improved performance
-• Updated energy model
+• Merged CAF tag 'LA.UM.7.8.r1-06900-SDM710.0'
+• Merged F2FS Stable
+• Enabled Support for Android Q
+• Disabled Devfreq_boost
+• Reduced cpu input boost duration to 32ms
+• Removed Xiaomi Debugging
+• Removed ESR hacks By Xiaomi
+• Disabled debugging of techpack
+• Removed CpuSet Assist
+• Removed Schedtune Assist
+• Builded with CC -Werror
+• Removed RCU Boost
+• Enabled MSM-Thermal-Simple
+• Enabled Dynamic Stune Boost V3
+• Tuned Dirty backgrounds
+• Enabled TTL Support
+• Removed Pelt
 • Improved deepsleep
-• Fixed some memory leaks
-• Improved thermal mitigation
-• Lib optimizations
-• Added sleep time to timestamps
-• Improved speed for open apps
-• Fixed high temperature while doing nothing
-• Improved cache locality
-• Enabled HID support for keyboard and mouse
-• Bunch of crypto improvements
 • More optimizations...
 
 •••••••••••••••••••••••••••••••••••••
