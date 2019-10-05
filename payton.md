@@ -18,6 +18,8 @@
 • Improved Media seekbar in notification
 • Other fixes and improvements
 ===PAYTON===
-==[10/03/19]==
-Kernel Changelog:-
-• Upstream Kernel --> [4.4.194]
+==[10/05/19]==
+Device Changelog:-
+• Rebased from LOS Repos
+• Code Cleanup
+*Clean flash Recommended*
