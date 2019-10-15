@@ -1,4 +1,15 @@
 ====================
+    15-10-2019
+====================
+
+  * Fine-tuned core usage while device is charging
+  * Disabled WiFi Basic Service Sets flush
+  * Whitelisted Camera apps
+  * Set CPU set for Camera apps
+  * Enabled Assisted GPS (A-GPS)
+  * Long press Menu button behaviour changed
+
+====================
     16-09-2019
 ====================
 

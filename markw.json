@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.9-20190916-markw-Official.zip",
+      "filename": "Havoc-OS-v2.9-20191015-markw-Official.zip",
       "version": "v2.9",
       "romtype": "Official",
-      "size": "590305069",
-      "datetime": 1568620356,
-      "id": "954bdd03798109d51abf113da670ee31f88c3876a470ebd91464901a3f6466a0",
-      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v2.9-20190916-markw-Official.zip/download"
+      "size": "607996321",
+      "datetime": 1571124676,
+      "id": "ca2948494158c9fd3fc9a80309b8a9fbb387bfb977b22725ebcf845e9cdc9fd4",
+      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v2.9-20191015-markw-Official.zip/download"
     }
   ]
 }
