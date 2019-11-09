@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190807-hltechn-Official.zip",
-      "version": "v2.8",
+      "filename": "Havoc-OS-v2.9-20191108-hltechn-Official.zip",
+      "version": "v2.9",
       "romtype": "Official",
-      "size": "400618030",
-      "datetime": 1565219474,
-      "id": "ba52fb7983962217062af5305b58b15114f10719a662bb231fe1d19c207b92fe",
-      "url": "https://sourceforge.net/projects/havoc-os/files/hltechn/Havoc-OS-v2.8-20190807-hltechn-Official.zip/download"
+      "size": "404833987",
+      "datetime": 1573203524,
+      "id": "6b551c6f5794f2c1e573dcc63863d08f79d58d4b6d7229e1790d89d6e37bff15",
+      "url": "https://sourceforge.net/projects/havoc-os/files/hltechn/Havoc-OS-v2.9-20191108-hltechn-Official.zip/download"
     }
   ]
 }
